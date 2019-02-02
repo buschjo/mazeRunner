@@ -1,0 +1,734 @@
+﻿Log file open, 01/30/19 12:26:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: unreal_project
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.334266
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.127s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Config/Windows/Engine.ini]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Config/Windows/Engine.ini]
+[2019.01.30-11.26.30:522][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Config/Windows/Engine.ini]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Config/Windows/Engine.ini]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.30-11.26.30:522][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Config/Windows/Engine.ini]
+[2019.01.30-11.26.30:522][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Config/Windows/Engine.ini]
+[2019.01.30-11.26.30:524][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.01.30-11.26.30:524][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.30-11.26.30:524][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.30-11.26.30:524][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.01.30-11.26.30:524][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.30-11.26.30:524][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.01.30-11.26.30:524][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.30-11.26.30:524][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.30-11.26.30:524][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.30-11.26.30:524][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.30-11.26.30:524][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.30-11.26.30:524][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.30-11.26.30:524][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.30-11.26.30:524][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.30-11.26.30:524][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.30-11.26.30:524][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.30-11.26.30:524][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.30-11.26.30:524][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.30-11.26.30:524][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.30-11.26.30:524][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.30-11.26.30:525][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.30-11.26.30:525][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.30-11.26.30:525][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.30-11.26.30:540][  0]LogHAL: Display: Platform has ~ 8 GB [8393609216 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.30-11.26.30:540][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.30-11.26.30:540][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.30-11.26.30:540][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.01.30-11.26.30:540][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.30-11.26.30:540][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.30-11.26.30:540][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.01.30-11.26.30:540][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.30-11.26.30:540][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.01.30-11.26.30:540][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.30-11.26.30:540][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.30-11.26.30:540][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.30-11.26.30:540][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.30-11.26.30:540][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.30-11.26.30:540][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.30-11.26.30:540][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.30-11.26.30:540][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.30-11.26.30:540][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.30-11.26.30:540][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.30-11.26.30:541][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.30-11.26.30:542][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.30-11.26.30:542][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Config/Windows/Engine.ini]
+[2019.01.30-11.26.30:542][  0]LogInit: Computer: DESKTOP-HFI58I4
+[2019.01.30-11.26.30:542][  0]LogInit: User: Dani
+[2019.01.30-11.26.30:542][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.30-11.26.30:542][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.01.30-11.26.30:542][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2019.01.30-11.26.30:542][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.30-11.26.30:542][  0]LogMemory: Process Physical Memory: 103.08 MB used, 103.08 MB peak
+[2019.01.30-11.26.30:542][  0]LogMemory: Process Virtual Memory: 92.71 MB used, 92.71 MB peak
+[2019.01.30-11.26.30:543][  0]LogMemory: Physical Memory: 5009.85 MB used,  2994.92 MB free, 8004.77 MB total
+[2019.01.30-11.26.30:543][  0]LogMemory: Virtual Memory: 4641.90 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.01.30-11.26.30:577][  0]LogInit: Using OS detected language (en-US).
+[2019.01.30-11.26.30:577][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.30-11.26.30:577][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.30-11.26.30:991][  0]LogStreaming: Display: Took  0.414s to InitEngineTextLocalization.
+[2019.01.30-11.26.30:991][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.30-11.26.31:032][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.30-11.26.31:032][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.30-11.26.31:351][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.30-11.26.31:351][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.30-11.26.31:397][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2019.01.30-11.26.31:397][  0]LogD3D11RHI:       128/0/4002 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.01.30-11.26.31:399][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.30-11.26.31:399][  0]LogD3D11RHI:       0/0/4002 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.30-11.26.31:399][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.30-11.26.31:403][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.30-11.26.31:403][  0]LogD3D11RHI:     GPU DeviceId: 0x3ea0 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.30-11.26.31:403][  0]LogWindows: EnumDisplayDevices:
+[2019.01.30-11.26.31:403][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2019.01.30-11.26.31:404][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.01.30-11.26.31:404][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.01.30-11.26.31:404][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.01.30-11.26.31:404][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2019.01.30-11.26.31:404][  0]LogD3D11RHI:   Driver Version: 24.20.100.6287 (internal:24.20.100.6287, unified:24.20.100.6287)
+[2019.01.30-11.26.31:404][  0]LogD3D11RHI:      Driver Date: 8-15-2018
+[2019.01.30-11.26.31:404][  0]LogRHI: Texture pool is 1490 MB (70% of 2129 MB)
+[2019.01.30-11.26.31:476][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.01.30-11.26.31:476][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.30-11.26.31:481][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.01.30-11.26.31:790][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.30-11.26.31:800][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.30-11.26.31:810][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.30-11.26.31:821][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.30-11.26.31:835][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.30-11.26.31:847][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.30-11.26.31:858][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.30-11.26.31:869][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.30-11.26.31:876][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.30-11.26.31:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.30-11.26.31:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.30-11.26.31:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.30-11.26.31:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.30-11.26.31:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.30-11.26.31:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.30-11.26.31:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.30-11.26.31:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.30-11.26.31:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.30-11.26.31:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.30-11.26.31:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.30-11.26.31:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.30-11.26.31:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.30-11.26.31:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.30-11.26.31:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.30-11.26.31:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.30-11.26.31:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.30-11.26.31:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.30-11.26.31:935][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.30-11.26.32:005][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.30-11.26.32:005][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.30-11.26.32:023][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.30-11.26.32:023][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.30-11.26.32:033][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.30-11.26.32:046][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.30-11.26.32:056][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.30-11.26.32:068][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.30-11.26.32:101][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.30-11.26.32:101][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.30-11.26.32:101][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.30-11.26.32:159][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Intermediate/Shaders/WorkingDirectory/18268/).
+[2019.01.30-11.26.32:159][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dani/AppData/Local/Temp/UnrealShaderWorkingDir/5F4322534E1F6390D735E3B58A34D461/'.
+[2019.01.30-11.26.32:160][  0]LogXGEController: Cleaning working directory: C:/Users/Dani/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.30-11.26.32:160][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.30-11.26.32:160][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.30-11.26.32:160][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.30-11.26.32:685][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.30-11.26.32:793][  0]LogDerivedDataCache: Loaded boot cache 0.11s 71MB C:/Users/Dani/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.30-11.26.32:793][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Dani/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.30-11.26.32:793][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.30-11.26.32:793][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.30-11.26.32:793][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.30-11.26.32:793][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.30-11.26.32:804][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.30-11.26.32:804][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.30-11.26.32:804][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.30-11.26.32:816][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Dani/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.30-11.26.32:816][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.30-11.26.32:816][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.30-11.26.32:834][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.30-11.26.32:835][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.30-11.26.32:837][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.30-11.26.32:991][  0]LogAssetRegistry: FAssetRegistry took 0.0307 seconds to start up
+[2019.01.30-11.26.33:237][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.30-11.26.33:374][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.30-11.26.33:380][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.30-11.26.33:380][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.30-11.26.33:380][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.30-11.26.33:380][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.30-11.26.33:391][  0]LogNetVersion: unreal_project 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2550434977)
+[2019.01.30-11.26.33:820][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.096766 seconds
+[2019.01.30-11.26.33:824][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.30-11.26.33:824][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.30-11.26.33:824][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.30-11.26.35:299][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.30-11.26.35:317][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.30-11.26.35:981][  0]SourceControl: Source control is disabled
+[2019.01.30-11.26.35:981][  0]SourceControl: Source control is disabled
+[2019.01.30-11.26.35:986][  0]SourceControl: Source control is disabled
+[2019.01.30-11.26.35:989][  0]SourceControl: Source control is disabled
+[2019.01.30-11.26.36:202][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.30-11.26.36:265][  0]LogOcInput: OculusInput pre-init called
+[2019.01.30-11.26.36:442][  0]LogEngine: Initializing Engine...
+[2019.01.30-11.26.36:443][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.30-11.26.36:444][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.30-11.26.36:444][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.30-11.26.36:444][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.30-11.26.36:444][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.30-11.26.36:634][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.30-11.26.36:647][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.30-11.26.36:657][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.30-11.26.37:185][  0]LogInit: FAudioDevice initialized.
+[2019.01.30-11.26.37:185][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.30-11.26.37:317][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/Dani/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.30-11.26.37:319][  0]LogInit: Texture streaming: Enabled
+[2019.01.30-11.26.37:346][  0]LogInit: Transaction tracking system initialized
+[2019.01.30-11.26.37:379][  0]BlueprintLog: New page: Editor Load
+[2019.01.30-11.26.37:488][  0]LocalizationService: Localization service is disabled
+[2019.01.30-11.26.37:988][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Content/' took 0.02s
+[2019.01.30-11.26.37:988][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.30-11.26.37:989][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.30-11.26.37:989][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.30-11.26.37:989][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.30-11.26.37:989][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.30-11.26.37:989][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.30-11.26.37:989][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.30-11.26.38:133][  0]SourceControl: Source control is disabled
+[2019.01.30-11.26.38:133][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.30-11.26.38:133][  0]LightingResults: New page: Lighting Build
+[2019.01.30-11.26.38:135][  0]MapCheck: New page: Map Check
+[2019.01.30-11.26.38:135][  0]LightingResults: New page: Lighting Build
+[2019.01.30-11.26.38:651][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.30-11.26.38:661][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.30-11.26.38:681][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.30-11.26.38:681][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
+[2019.01.30-11.26.38:681][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.547
+[2019.01.30-11.26.38:779][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.30-11.26.38:785][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.30-11.26.38:791][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.30-11.26.38:796][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.30-11.26.38:800][  0]LogCollectionManager: Loaded 0 collections in 0.000817 seconds
+[2019.01.30-11.26.38:828][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Collections/' took 0.01s
+[2019.01.30-11.26.38:828][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Content/Developers/Dani/Collections/' took 0.00s
+[2019.01.30-11.26.38:828][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Content/Collections/' took 0.01s
+[2019.01.30-11.26.38:828][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.30-11.26.38:840][  0]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2651 classes and 620 folders.
+[2019.01.30-11.26.38:845][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.30-11.26.38:846][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:847][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:847][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:848][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:848][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:849][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:849][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:850][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:850][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:850][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:851][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:851][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:852][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:852][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:853][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:853][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:853][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:854][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:854][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:855][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:855][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:855][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:856][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:856][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:857][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:857][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.30-11.26.38:894][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.30-11.26.38:897][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.01.30-11.26.38:947][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.30-11.26.38:949][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.30-11.26.38:954][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.30-11.26.39:016][  0]LogRenderer: Reallocating scene render targets to support 748x340 Format 10 NumSamples 1 (Frame:1).
+[2019.01.30-11.26.39:161][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.30-11.26.39:161][  0]LogLoad: (Engine Initialization) Total time: 10.80 seconds
+[2019.01.30-11.26.39:161][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.30-11.26.39:250][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.30-11.26.39:261][  0]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.30-11.26.39:296][  1]LogAssetRegistry: Asset discovery search completed in 6.3280 seconds
+[2019.01.30-11.26.39:298][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.30-11.26.39:298][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2019.01.30-11.27.39:033][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-11.27.39:180][739]LogLinker: Warning: Can't find file '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh'
+[2019.01.30-11.27.39:181][739]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh' while loading ../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Content/ThirdPersonBP/Blueprints/FirstPersonProjectile.uasset.
+[2019.01.30-11.27.39:181][739]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/FirstPersonProjectile : Can't find file for asset. /Game/FirstPerson/Meshes/FirstPersonProjectileMesh
+[2019.01.30-11.27.39:183][739]LogLinker: Warning: Can't find file '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh'
+[2019.01.30-11.27.39:184][739]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh' while loading ../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Content/ThirdPersonBP/Blueprints/FirstPersonProjectile.uasset.
+[2019.01.30-11.27.39:190][739]LogLinker: Warning: Can't find file '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh'
+[2019.01.30-11.27.39:190][739]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh' while loading NULL.
+[2019.01.30-11.27.39:191][739]LogLinker: Warning: Can't find file '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh'
+[2019.01.30-11.27.39:193][739]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh' while loading NULL.
+[2019.01.30-11.27.39:206][739]LogLinker: Warning: Can't find file '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh'
+[2019.01.30-11.27.39:206][739]LoadErrors: Failed to load /Game/FirstPerson/Meshes/FirstPersonProjectileMesh.FirstPersonProjectileMesh Referenced by StaticMeshComponent_252__1AD2D010
+[2019.01.30-11.27.39:207][739]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Meshes/FirstPersonProjectileMesh' while loading NULL.
+[2019.01.30-11.27.39:231][739]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.30-11.27.39:246][739]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2019.01.30-11.27.40:026][739]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 117 classes and 0 folders.
+[2019.01.30-11.27.40:974][739]LogSlate: Took 0.001164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.30-11.27.41:063][740]LogSlate: Took 0.001353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.30-11.27.49:008][ 92]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2019.01.30-11.27.49:021][ 92]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2019.01.30-11.27.52:872][196]LogBlueprint: Error: [Compiler BP_Enemy] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2019.01.30-11.27.52:872][196]LogBlueprint: Warning: [Compiler BP_Enemy] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2019.01.30-11.27.52:879][196]LogBlueprint: Warning: [Compiler BP_Enemy] [0084.52] Compile of BP_Enemy failed. 1 Fatal Issue(s) 1 Warning(s) [in 11 ms] (/Game/ThirdPersonBP/Blueprints/BP_Enemy.BP_Enemy)
+[2019.01.30-11.27.52:975][196]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BP_Enemy.BP_Enemy
+[2019.01.30-11.28.29:364][726]LogRenderer: Reallocating scene render targets to support 748x392 Format 10 NumSamples 1 (Frame:1).
+[2019.01.30-11.29.03:263][235]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.30-11.34.19:884][253]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/BP_Enemy5991223644591BBD363415B949735202.tmp' to '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Content/ThirdPersonBP/Blueprints/BP_Enemy.uasset'
+[2019.01.30-11.35.04:982][325]LogSlate: Took 0.003659 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.01.30-11.36.03:136][574]BlueprintLog: New page: Compile BP_Enemy
+[2019.01.30-11.36.03:381][574]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/BP_Enemy893EA2A94E31F50898CB0688152D5664.tmp' to '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Content/ThirdPersonBP/Blueprints/BP_Enemy.uasset'
+[2019.01.30-11.36.55:318][230]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.025
+[2019.01.30-11.36.55:350][230]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Enemy] ([1] browsable assets)...
+[2019.01.30-11.36.55:383][230]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/BP_Enemy.BP_Enemy]
+[2019.01.30-11.36.55:383][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Enemy]
+[2019.01.30-11.36.55:427][230]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/BP_Enemy_Auto1D72AC6B54D24725F9D52AD8336A3A25E.tmp' to '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Enemy_Auto1.uasset'
+[2019.01.30-11.36.55:428][230]LogFileHelpers: Auto-saving content packages took 0.110
+[2019.01.30-11.37.37:723][562]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/BP_EnemyFA99E52947432CFAA67E948BB36901BC.tmp' to '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Content/ThirdPersonBP/Blueprints/BP_Enemy.uasset'
+[2019.01.30-11.38.08:562][192]BlueprintLog: New page: Compile BP_Enemy
+[2019.01.30-11.38.08:927][192]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/BP_Enemy619045E04ED87A9B82B125A0974CE3C2.tmp' to '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Content/ThirdPersonBP/Blueprints/BP_Enemy.uasset'
+[2019.01.30-11.40.52:566][129]BlueprintLog: New page: Compile BP_Enemy
+[2019.01.30-11.40.52:981][129]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/BP_Enemy35F96CD245C29CA2B411FCA945D10ACD.tmp' to '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Content/ThirdPersonBP/Blueprints/BP_Enemy.uasset'
+[2019.01.30-11.40.53:511][148]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/BP_EnemyF04719D946CEB9667AD38E8A38468F13.tmp' to '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Content/ThirdPersonBP/Blueprints/BP_Enemy.uasset'
+[2019.01.30-11.41.09:739][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-11.41.17:844][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-11.41.24:166][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.30-11.41.24:543][407]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/ThirdPersonExampleMap140060F74AA55518E38884A6F91129FB.tmp' to '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.01.30-11.41.24:830][407]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/ThirdPersonExampleMap_BuiltData4B83B4474C1DF2DB400638904C35B941.tmp' to '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.01.30-11.41.30:299][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-11.41.30:373][649]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.30-11.41.30:409][649]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.30-11.41.30:410][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.30-11.41.30:416][649]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 30, 2019, 1:41:30 PM)
+[2019.01.30-11.41.30:433][649]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.30-11.41.30:456][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022473s)
+[2019.01.30-11.41.30:457][649]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.30-11.41.30:458][649]LogPlayLevel: PIE: World Init took: (0.001729s)
+[2019.01.30-11.41.30:458][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024966s)
+[2019.01.30-11.41.30:530][649]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.30-11.41.30:643][649]LogInit: FAudioDevice initialized.
+[2019.01.30-11.41.30:712][649]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.30-11.41.30:727][649]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.30-12.41.30
+[2019.01.30-11.41.30:736][649]LogWorld: Bringing up level for play took: 0.012730
+[2019.01.30-11.41.30:779][649]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.01.30-11.41.30:782][649]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.899
+[2019.01.30-11.41.30:783][649]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.30-11.41.37:153][954]PIE: Warning: FirstPersonProjectile_C_0.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.01.30-11.41.38:675][ 32]PIE: Warning: FirstPersonProjectile_C_1.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.01.30-11.41.40:210][112]PIE: Warning: FirstPersonProjectile_C_2.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.01.30-11.41.41:744][193]PIE: Warning: FirstPersonProjectile_C_3.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.01.30-11.41.43:280][274]PIE: Warning: FirstPersonProjectile_C_4.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.01.30-11.41.44:812][354]PIE: Warning: FirstPersonProjectile_C_5.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.01.30-11.41.46:331][432]PIE: Warning: FirstPersonProjectile_C_6.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.01.30-11.41.47:877][513]PIE: Warning: FirstPersonProjectile_C_7.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.01.30-11.41.49:152][579]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.30-11.41.49:152][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.30-11.41.49:211][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.30-11.41.49:212][579]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.30-11.41.49:272][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.30-11.41.49:290][579]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.30-11.41.49:405][580]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.01.30-11.42.22:316][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-11.42.28:126][ 54]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2019.01.30-11.43.21:897][ 71]BlueprintLog: New page: Compile FirstPersonProjectile
+[2019.01.30-11.43.22:254][ 71]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/FirstPersonProjectile9E20C11E43C2303F783F4087F45FE5BE.tmp' to '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Content/ThirdPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2019.01.30-11.43.22:887][ 90]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/FirstPersonProjectile33C1B8F84AC593880E96F083806594C1.tmp' to '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Content/ThirdPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2019.01.30-11.43.26:497][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-11.43.26:600][255]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.30-11.43.26:631][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.30-11.43.26:631][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.30-11.43.26:631][255]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 30, 2019, 1:43:26 PM)
+[2019.01.30-11.43.26:631][255]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.30-11.43.26:655][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023131s)
+[2019.01.30-11.43.26:656][255]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.30-11.43.26:656][255]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2019.01.30-11.43.26:656][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024564s)
+[2019.01.30-11.43.26:711][255]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.30-11.43.26:838][255]LogInit: FAudioDevice initialized.
+[2019.01.30-11.43.26:878][255]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.30-11.43.26:882][255]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.30-12.43.26
+[2019.01.30-11.43.26:882][255]LogWorld: Bringing up level for play took: 0.003009
+[2019.01.30-11.43.26:896][255]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.012
+[2019.01.30-11.43.26:896][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.30-11.43.31:011][445]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_0.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2019.01.30-11.43.31:012][445]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_0.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2019.01.30-11.43.31:017][445]PIE: Warning: FirstPersonProjectile_C_0.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.01.30-11.43.32:523][521]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_1.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2019.01.30-11.43.32:523][521]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_1.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2019.01.30-11.43.32:524][521]PIE: Warning: FirstPersonProjectile_C_1.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.01.30-11.43.34:064][601]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_2.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2019.01.30-11.43.34:065][601]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_2.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2019.01.30-11.43.34:065][601]PIE: Warning: FirstPersonProjectile_C_2.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.01.30-11.43.35:604][682]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_3.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2019.01.30-11.43.35:604][682]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_3.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2019.01.30-11.43.35:605][682]PIE: Warning: FirstPersonProjectile_C_3.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.01.30-11.43.37:147][763]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_4.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2019.01.30-11.43.37:147][763]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_4.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2019.01.30-11.43.37:148][763]PIE: Warning: FirstPersonProjectile_C_4.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.01.30-11.43.37:984][806]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.30-11.43.37:985][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.30-11.43.38:047][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.30-11.43.38:047][806]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.30-11.43.38:115][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.30-11.43.38:127][806]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.30-11.43.38:166][807]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.01.30-11.45.07:856][163]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/FirstPersonProjectile50C1F8AD4D0097426B6BB29598300A5C.tmp' to '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Content/ThirdPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2019.01.30-11.45.13:958][351]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/FirstPersonProjectile5ED0E7274FF741267DBCB8AB95CFFFAB.tmp' to '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Content/ThirdPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2019.01.30-11.50.46:410][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-11.50.52:377][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.30-11.50.56:872][ 57]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/BP_EnemyFCCF407B4CA4B639446BBA82E9A9DD05.tmp' to '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Content/ThirdPersonBP/Blueprints/BP_Enemy.uasset'
+[2019.01.30-11.51.04:535][242]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.30-11.51.04:618][242]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Saved/BP_Enemy072C43E848CF1F5EBAB74CA9EE69B3FF.tmp' to '../../../../../../Users/Dani/Desktop/unreal_project/gameEngines_2/maze_runner/Content/ThirdPersonBP/Blueprints/BP_Enemy.uasset'
+[2019.01.30-11.51.28:618][ 26]LogUObjectArray: Warning: Other object in slot
+[2019.01.30-11.51.28:622][ 26]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.01.30-11.51.29:731][ 26]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.108 s
+[2019.01.30-11.51.29:731][ 26]LogOutputDevice: Error: === Handled ensure: ===
+[2019.01.30-11.51.29:731][ 26]LogOutputDevice: Error: 
+[2019.01.30-11.51.29:731][ 26]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.01.30-11.51.29:731][ 26]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.01.30-11.51.29:731][ 26]LogOutputDevice: Error: Stack: 
+[2019.01.30-11.51.29:731][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff8e5488304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff8e54981ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff8e332bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff8e20f769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff8e20b0917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff8f5c57c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff8f5ea4393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff8f5cb2d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff8f5c88a70 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff8f5c7b263 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff8f613dc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff8f6130de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff8f61401eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff8f612ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff953ccca66 USER32.dll!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff953ccc582 USER32.dll!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff8f6141746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff7705a5546 UE4Editor.exe!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff7705b596c UE4Editor.exe!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff7705b59ea UE4Editor.exe!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff7705c48da UE4Editor.exe!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff7705c659a UE4Editor.exe!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff9536281f4 KERNEL32.DLL!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: [Callstack] 0x00007ff95617a251 ntdll.dll!UnknownFunction []
+[2019.01.30-11.51.29:732][ 26]LogOutputDevice: Error: 
+[2019.01.30-11.51.29:734][ 26]LogStats:                SubmitErrorReport -  0.000 s
