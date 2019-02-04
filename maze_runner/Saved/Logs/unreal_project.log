@@ -732,3 +732,997 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.02.04-15.19.02:144][215]LogEditorViewport: Clicking on Actor (LMB): maze_backtrack2_C (maze_backtrack2)
 [2019.02.04-15.19.03:258][278]LogEditorViewport: Clicking on Actor (LMB): maze_backtrack2_C (maze_backtrack2)
 [2019.02.04-15.19.04:128][328]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.02.04-15.19.14:298][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.19.27:310][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.19.28:063][700]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/level1E6512A56469DE6314E9237A584320A15.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level1.umap'
+[2019.02.04-15.19.28:973][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.19.29:089][756]MapCheck: New page: Map Check
+[2019.02.04-15.19.29:134][756]Cmd: MAP REBUILD ALLVISIBLE
+[2019.02.04-15.19.29:135][756]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.02.04-15.19.29:330][756]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.02.04-15.19.29:362][756]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.04-15.19.29:362][756]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Frame, compiling. 
+[2019.02.04-15.19.29:385][756]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2019.02.04-15.19.29:411][756]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.04-15.19.29:411][756]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.04-15.19.29:411][756]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2019.02.04-15.19.29:439][756]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MT_Key, compiling. 
+[2019.02.04-15.19.29:460][756]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Brick_Clay_Beveled, compiling. 
+[2019.02.04-15.19.29:485][756]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.02.04-15.19.29:511][756]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.02.04-15.19.32:310][756]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.04-15.19.32:310][756]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.04-15.19.32:310][756]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.04-15.19.32:310][756]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.04-15.19.32:310][756]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.04-15.19.32:310][756]TextureStreamingBuild: Display: Compiling optional shaders took 3.001 seconds.
+[2019.02.04-15.19.32:341][756]LogLevel: Display: Export Material TexCoord Scales took 0.031 seconds.
+[2019.02.04-15.19.32:374][756]TextureStreamingBuild: Display: Build Texture Streaming took 0.031 seconds.
+[2019.02.04-15.19.32:479][756]LightingResults: New page: Lighting Build - Feb 4, 2019, 5:19:32 PM
+[2019.02.04-15.19.32:607][756]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.02.04-15.19.32:894][756]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.02.04-15.19.32:928][756]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.02.04-15.19.33:967][756]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.02.04-15.19.33:967][756]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10140
+[2019.02.04-15.19.43:330][756]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.02.04-15.19.43:330][756]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.02.04-15.19.43:330][756]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.02.04-15.19.43:330][756]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.02.04-15.19.43:330][756]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.02.04-15.19.43:846][756]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.02.04-15.19.43:846][756]MapCheck: New page: level1 - Feb 4, 2019, 5:19:43 PM
+[2019.02.04-15.19.43:847][756]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.096ms to complete.
+[2019.02.04-15.19.43:871][756]LogEditorBuildUtils: Build time 0:14
+[2019.02.04-15.19.49:356][ 17]Job is a success!
+[2019.02.04-15.19.49:404][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.19.49:500][ 18]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.078s
+[2019.02.04-15.19.49:500][ 18]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.02.04-15.19.49:500][ 18]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.5Mb (trimmed 0.6Mb due to 0.010000 MinBrickError)
+[2019.02.04-15.19.49:500][ 18]LogVolumetricLightmapImport:      Bricks at Level
+[2019.02.04-15.19.49:500][ 18]LogVolumetricLightmapImport:          0: 2.9% covering 100.0% of volume
+[2019.02.04-15.19.49:500][ 18]LogVolumetricLightmapImport:          1: 9.1% covering 4.9% of volume
+[2019.02.04-15.19.49:500][ 18]LogVolumetricLightmapImport:          2: 88.0% covering 0.7% of volume
+[2019.02.04-15.19.49:799][ 18]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.02.04-15.19.49:799][ 18]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.02.04-15.19.49:799][ 18]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 128X64)
+[2019.02.04-15.19.49:799][ 18]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.02.04-15.19.49:799][ 18]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2019.02.04-15.19.49:799][ 18]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2019.02.04-15.19.49:846][ 18]Lightmass on LAPTOP-4DDR39I4: 4.86 sec total, 85 ms importing, 3 ms setup, 1.36 sec photons, 3.39 sec processing, 0 ms extra exporting [8/8 mappings]. Threads: 23.5 sec total, 5.44 sec processing.
+[2019.02.04-15.19.49:896][ 18]LogStaticLightingSystem: Illumination: 17.3 sec (203 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.02.04-15.19.49:896][ 18]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (0.0 MB streaming, 2.7 MB non-streaming), 4 textures
+[2019.02.04-15.19.49:896][ 18]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.02.04-15.19.50:339][ 18]DumpUnbuiltLightIteractions
+[2019.02.04-15.19.50:339][ 18]Lights with unbuilt interactions: 0
+[2019.02.04-15.19.50:339][ 18]
+[2019.02.04-15.19.50:339][ 18]Primitives with unbuilt interactions: 0
+[2019.02.04-15.19.50:350][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.19.50:425][ 19]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.02.04-15.19.50:425][ 19]MapCheck: New page: level1 - Feb 4, 2019, 5:19:50 PM
+[2019.02.04-15.19.50:426][ 19]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.657ms to complete.
+[2019.02.04-15.19.53:867][225]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.19.54:579][268]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.04-15.19.54:592][268]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.04-15.19.54:592][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.04-15.19.54:593][268]PIE: New page: PIE session: level1 (Feb 4, 2019, 5:19:54 PM)
+[2019.02.04-15.19.54:593][268]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_level1
+[2019.02.04-15.19.54:597][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004697s)
+[2019.02.04-15.19.54:598][268]LogAIModule: Creating AISystem for world level1
+[2019.02.04-15.19.54:598][268]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2019.02.04-15.19.54:598][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/level1.level1 to /Game/Maps/UEDPIE_0_level1.level1 (0.005508s)
+[2019.02.04-15.19.54:623][268]LogInit: XAudio2 using 'Lautsprecher (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.04-15.19.54:638][268]LogInit: FAudioDevice initialized.
+[2019.02.04-15.19.54:638][268]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.19.54:669][268]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.04-15.19.54:672][268]LogWorld: Bringing World /Game/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.02.04-16.19.54
+[2019.02.04-15.19.54:673][268]LogWorld: Bringing up level for play took: 0.002228
+[2019.02.04-15.19.54:687][268]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_level1 -0.144
+[2019.02.04-15.19.54:687][268]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.04-15.20.00:671][626]PIE: Warning: Projectile_C_0.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.04-15.20.02:172][716]PIE: Warning: Projectile_C_1.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.04-15.20.03:672][806]PIE: Warning: Projectile_C_2.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.04-15.21.40:890][635]LogNet: Browse: /Game/Maps/level2
+[2019.02.04-15.21.40:891][635]LogLoad: LoadMap: /Game/Maps/level2
+[2019.02.04-15.21.41:028][635]LogAIModule: Creating AISystem for world level2
+[2019.02.04-15.21.41:028][635]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.04-15.21.41:043][635]LogWorld: Bringing World /Game/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2019.02.04-16.21.41
+[2019.02.04-15.21.41:055][635]LogWorld: Bringing up level for play took: 0.025741
+[2019.02.04-15.21.41:060][635]LogLoad: Took 0.168917 seconds to LoadMap(/Game/Maps/level2)
+[2019.02.04-15.21.45:794][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.22.03:031][949]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.04-15.22.03:031][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-15.22.03:066][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.04-15.22.03:066][949]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.04-15.22.03:094][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-15.22.03:103][949]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.22.03:137][950]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.02.04-15.22.04:881][ 53]LogSlate: Window 'Message Log' being destroyed
+[2019.02.04-15.22.04:885][ 53]LogSlate: Window 'Message Log' being destroyed
+[2019.02.04-15.22.11:915][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.22.15:347][678]LogAIModule: Creating AISystem for world level2
+[2019.02.04-15.22.15:363][678]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/level2.level2
+[2019.02.04-15.22.17:200][678]LogSlate: Window 'Save Content' being destroyed
+[2019.02.04-15.22.17:504][678]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/level1D2CA8B654D6F3004A484049AD59E3C7E.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level1.umap'
+[2019.02.04-15.22.17:539][678]LogFileHelpers: Saving map 'level1' took 0.326
+[2019.02.04-15.22.17:556][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/level1_BuiltData" FILE="../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level1_BuiltData.uasset" SILENT=true
+[2019.02.04-15.22.17:688][678]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/level1_BuiltData39E5E95E4FC816B79FA49A9D78C50508.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level1_BuiltData.uasset'
+[2019.02.04-15.22.17:693][678]Cmd: MAP LOAD FILE="../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.04-15.22.17:693][678]LightingResults: New page: Lighting Build
+[2019.02.04-15.22.17:694][678]LoadErrors: New page: Loading map: level2.umap
+[2019.02.04-15.22.17:742][678]MapCheck: New page: Map Check
+[2019.02.04-15.22.17:742][678]LightingResults: New page: Lighting Build
+[2019.02.04-15.22.17:809][678]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.04-15.22.17:886][678]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.04-15.22.17:889][678]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.693ms to complete.
+[2019.02.04-15.22.17:889][678]LogFileHelpers: Loading map 'level2' took 0.197
+[2019.02.04-15.22.18:003][678]LogAIModule: Creating AISystem for world level1
+[2019.02.04-15.22.19:545][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.22.19:659][768]MapCheck: New page: Map Check
+[2019.02.04-15.22.19:732][768]Cmd: MAP REBUILD ALLVISIBLE
+[2019.02.04-15.22.19:732][768]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.02.04-15.22.20:041][768]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ground_Grass, compiling. 
+[2019.02.04-15.22.20:084][768]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.04-15.22.20:084][768]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.02.04-15.22.20:132][768]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.04-15.22.20:132][768]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Brick_Clay_Beveled, compiling. 
+[2019.02.04-15.22.20:188][768]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.04-15.22.20:188][768]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Frame, compiling. 
+[2019.02.04-15.22.20:241][768]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.04-15.22.20:241][768]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2019.02.04-15.22.20:292][768]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2019.02.04-15.22.20:355][768]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MT_Key, compiling. 
+[2019.02.04-15.22.20:406][768]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.02.04-15.22.23:153][768]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.04-15.22.23:153][768]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.04-15.22.23:153][768]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.04-15.22.23:153][768]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.04-15.22.23:153][768]TextureStreamingBuild: Display: Compiling optional shaders took 3.134 seconds.
+[2019.02.04-15.22.23:202][768]LogLevel: Display: Export Material TexCoord Scales took 0.049 seconds.
+[2019.02.04-15.22.23:249][768]TextureStreamingBuild: Display: Build Texture Streaming took 0.045 seconds.
+[2019.02.04-15.22.23:392][768]LightingResults: New page: Lighting Build - Feb 4, 2019, 5:22:23 PM
+[2019.02.04-15.22.23:428][768]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.02.04-15.22.23:435][768]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.02.04-15.22.23:436][768]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.02.04-15.22.23:439][768]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.02.04-15.22.23:439][768]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10140
+[2019.02.04-15.22.42:008][768]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.02.04-15.22.42:008][768]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.02.04-15.22.42:008][768]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.02.04-15.22.42:008][768]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.02.04-15.22.42:009][768]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.02.04-15.22.42:009][768]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.02.04-15.22.42:440][768]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.02.04-15.22.42:440][768]MapCheck: New page: level2 - Feb 4, 2019, 5:22:42 PM
+[2019.02.04-15.22.42:440][768]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.02.04-15.22.42:441][768]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.835ms to complete.
+[2019.02.04-15.22.42:464][768]LogEditorBuildUtils: Build time 0:22
+[2019.02.04-15.22.42:469][768]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.22.44:473][835]Job is a success!
+[2019.02.04-15.22.44:534][836]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2019.02.04-15.22.44:534][836]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.02.04-15.22.44:534][836]LogVolumetricLightmapImport:      BrickData 660x5x5 = 0.6Mb
+[2019.02.04-15.22.44:534][836]LogVolumetricLightmapImport:      Bricks at Level
+[2019.02.04-15.22.44:534][836]LogVolumetricLightmapImport:          0: 0.8% covering 100.0% of volume
+[2019.02.04-15.22.44:534][836]LogVolumetricLightmapImport:          1: 6.8% covering 14.1% of volume
+[2019.02.04-15.22.44:534][836]LogVolumetricLightmapImport:          2: 92.4% covering 3.0% of volume
+[2019.02.04-15.22.44:585][836]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.02.04-15.22.44:585][836]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.02.04-15.22.44:585][836]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.02.04-15.22.44:585][836]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.02.04-15.22.44:585][836]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.02.04-15.22.44:585][836]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X128)
+[2019.02.04-15.22.44:596][836]Lightmass on LAPTOP-4DDR39I4: 1.09 sec total, 110 ms importing, 2 ms setup, 423 ms photons, 547 ms processing, 0 ms extra exporting [4/4 mappings]. Threads: 3.66 sec total, 433 ms processing.
+[2019.02.04-15.22.44:635][836]LogStaticLightingSystem: Illumination: 21.2 sec (27 ms encoding lightmaps, 10 ms encoding shadowmaps)
+[2019.02.04-15.22.44:635][836]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.02.04-15.22.44:635][836]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.02.04-15.22.45:016][836]DumpUnbuiltLightIteractions
+[2019.02.04-15.22.45:016][836]Lights with unbuilt interactions: 0
+[2019.02.04-15.22.45:016][836]
+[2019.02.04-15.22.45:016][836]Primitives with unbuilt interactions: 0
+[2019.02.04-15.22.45:028][836]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.22.45:155][837]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.02.04-15.22.45:156][837]MapCheck: New page: level2 - Feb 4, 2019, 5:22:45 PM
+[2019.02.04-15.22.45:156][837]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.577ms to complete.
+[2019.02.04-15.24.57:493][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.24.57:601][932]LogSlate: Window 'Message Log' being destroyed
+[2019.02.04-15.24.57:621][932]LogSlate: Window 'Message Log' being destroyed
+[2019.02.04-15.25.38:685][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.25.39:013][303]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/level2B49D4B264462055EF4EADF9073FFB962.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level2.umap'
+[2019.02.04-15.25.39:054][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/level2_BuiltData" FILE="../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level2_BuiltData.uasset" SILENT=true
+[2019.02.04-15.25.39:082][303]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/level2_BuiltDataBAD5E34E493D362A67DDD9895607D130.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level2_BuiltData.uasset'
+[2019.02.04-15.26.18:949][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.26.24:287][989]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.02.04-15.26.28:662][170]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy_C (BP_Enemy3)
+[2019.02.04-15.26.34:068][429]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.02.04-15.26.50:554][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.26.58:719][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.26.59:841][837]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.02.04-15.27.03:716][ 37]Cmd: TRANSACTION UNDO
+[2019.02.04-15.27.03:716][ 37]LogEditorTransaction: Undo Move Actors
+[2019.02.04-15.27.07:867][264]LogEditorViewport: Clicking on Actor (LMB): maze_backtrack2_C (maze_backtrack2)
+[2019.02.04-15.27.09:221][340]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.02.04-15.27.17:144][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.27.21:091][ 17]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.02.04-15.27.35:902][746]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.02.04-15.27.45:544][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.27.50:572][560]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/nextLevelTrigger/nextLevelTrigger_BP.nextLevelTrigger_BP
+[2019.02.04-15.28.16:299][485]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.28.53:389][738]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.29.19:539][574]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.29.49:179][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.29.54:270][699]LogEditorTransaction: Undo Remove Components
+[2019.02.04-15.30.01:161][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.30.32:711][926]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.30.57:640][560]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.31.08:245][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.32.07:378][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.32.12:036][868]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.02.04-15.32.26:237][656]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/nextLevelTrigger/trigger.trigger
+[2019.02.04-15.32.49:696][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.49:696][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.49:697][427]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.49:698][427]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.49:726][428]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.49:726][428]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.49:727][428]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.49:727][428]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.49:755][429]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.49:755][429]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.49:755][429]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.49:755][429]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.49:786][430]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.49:786][430]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.49:786][430]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.49:786][430]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:066][440]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:066][440]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:067][440]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:068][440]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:098][441]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:098][441]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:099][441]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:099][441]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:133][442]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:133][442]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:133][442]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:134][442]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:161][443]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:161][443]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:162][443]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:162][443]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:189][444]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:189][444]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:190][444]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:190][444]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:216][445]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:216][445]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:217][445]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:217][445]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:245][446]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:245][446]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:246][446]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:246][446]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:272][447]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:272][447]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:273][447]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:273][447]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:300][448]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:300][448]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:301][448]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:301][448]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:327][449]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:327][449]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:328][449]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:328][449]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:354][450]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:354][450]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:355][450]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:355][450]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:381][451]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:382][451]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:382][451]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:382][451]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:408][452]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:408][452]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:408][452]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:408][452]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:435][453]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:435][453]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:436][453]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:436][453]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:462][454]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:462][454]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:463][454]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:463][454]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:490][455]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:490][455]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:491][455]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:491][455]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:519][456]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:519][456]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:520][456]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:520][456]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:548][457]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:548][457]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:548][457]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:548][457]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:579][458]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:579][458]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.50:580][458]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.50:580][458]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:532][587]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:532][587]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:534][587]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:534][587]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:565][588]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:566][588]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:566][588]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:566][588]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:598][589]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:598][589]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:598][589]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:598][589]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:628][590]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:628][590]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:628][590]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:628][590]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:656][591]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:656][591]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:657][591]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:657][591]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:685][592]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:685][592]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:686][592]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:686][592]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:719][593]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:719][593]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:719][593]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:719][593]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:747][594]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:747][594]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:748][594]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:748][594]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:773][595]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:773][595]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:773][595]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:774][595]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:797][596]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:798][596]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:798][596]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:798][596]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:825][597]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:825][597]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:825][597]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:825][597]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:849][598]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:849][598]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:849][598]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:849][598]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:874][599]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:874][599]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:875][599]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:875][599]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:899][600]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:899][600]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:899][600]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:899][600]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:923][601]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:923][601]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:923][601]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:923][601]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:948][602]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:948][602]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:949][602]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:949][602]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:972][603]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:972][603]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:973][603]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:973][603]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:996][604]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:996][604]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.54:997][604]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.54:997][604]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:018][605]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:019][605]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:019][605]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:019][605]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:041][606]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:041][606]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:041][606]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:041][606]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:064][607]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:064][607]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:064][607]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:064][607]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:089][608]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:089][608]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:090][608]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:090][608]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:113][609]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:113][609]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:114][609]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:114][609]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:140][610]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:140][610]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:141][610]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:141][610]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:164][611]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:164][611]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:165][611]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:165][611]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:188][612]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:188][612]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:189][612]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:189][612]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:212][613]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:212][613]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:212][613]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:213][613]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:235][614]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:236][614]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:236][614]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:236][614]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:259][615]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:259][615]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:259][615]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:259][615]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:282][616]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:282][616]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:282][616]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:282][616]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:305][617]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:305][617]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:305][617]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:305][617]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:327][618]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:328][618]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:328][618]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:328][618]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:349][619]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:350][619]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:350][619]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:350][619]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:372][620]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:373][620]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.32.55:373][620]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.32.55:373][620]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:108][822]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:109][822]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:111][822]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:111][822]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:149][823]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:149][823]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:150][823]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:150][823]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:192][824]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:192][824]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:193][824]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:193][824]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:228][825]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:228][825]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:229][825]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:229][825]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:264][826]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:264][826]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:265][826]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:265][826]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:302][827]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:302][827]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:302][827]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:303][827]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:337][828]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:338][828]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:338][828]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:338][828]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:371][829]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:372][829]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:372][829]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:372][829]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:407][830]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:408][830]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:408][830]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:408][830]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:436][831]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:436][831]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:436][831]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:436][831]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:462][832]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:462][832]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:463][832]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:463][832]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:489][833]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:490][833]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:490][833]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:490][833]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:516][834]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:517][834]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:517][834]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:517][834]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:544][835]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:544][835]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:545][835]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:545][835]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:573][836]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:573][836]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:574][836]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:574][836]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:602][837]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:602][837]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:603][837]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:603][837]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:629][838]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:629][838]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:630][838]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:630][838]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:657][839]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:657][839]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:658][839]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:658][839]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:682][840]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:682][840]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:683][840]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:683][840]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:706][841]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:706][841]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:707][841]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:707][841]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:732][842]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:732][842]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:732][842]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:732][842]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:756][843]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:756][843]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:756][843]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:756][843]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:779][844]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:780][844]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:780][844]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:780][844]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:807][845]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:807][845]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:807][845]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:807][845]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:830][846]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:830][846]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:831][846]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:831][846]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:854][847]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:854][847]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:854][847]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:854][847]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:878][848]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:878][848]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:879][848]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:879][848]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:902][849]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:902][849]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:902][849]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:902][849]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:924][850]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:924][850]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:925][850]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:925][850]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:947][851]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:947][851]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:947][851]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:947][851]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:970][852]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:970][852]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:970][852]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:970][852]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:996][853]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:996][853]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.01:997][853]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.01:997][853]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.02:018][854]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.02:019][854]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.02:019][854]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.02:019][854]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.02:043][855]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.02:043][855]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.02:043][855]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.02:043][855]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.02:065][856]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.02:065][856]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.02:065][856]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.02:065][856]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.02:088][857]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.02:088][857]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.02:089][857]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.02:089][857]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.02:112][858]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.02:112][858]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.02:112][858]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.02:112][858]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.02:138][859]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.02:138][859]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.02:138][859]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.02:138][859]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.02:164][860]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.02:164][860]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.02:164][860]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.02:164][860]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:583][ 11]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:584][ 11]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:586][ 11]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:586][ 11]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:613][ 12]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:613][ 12]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:614][ 12]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:614][ 12]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:640][ 13]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:640][ 13]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:641][ 13]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:641][ 13]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:668][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:669][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:669][ 14]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:669][ 14]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:696][ 15]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:696][ 15]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:697][ 15]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:697][ 15]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:725][ 16]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:726][ 16]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:726][ 16]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:726][ 16]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:755][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:755][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:756][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:756][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:785][ 18]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:785][ 18]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:786][ 18]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:786][ 18]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:813][ 19]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:813][ 19]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:814][ 19]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:814][ 19]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:840][ 20]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:840][ 20]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:840][ 20]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:840][ 20]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:867][ 21]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:867][ 21]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:867][ 21]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:868][ 21]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:896][ 22]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:897][ 22]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:897][ 22]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:897][ 22]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:926][ 23]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:927][ 23]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:927][ 23]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:927][ 23]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:954][ 24]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:954][ 24]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:954][ 24]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:955][ 24]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:981][ 25]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:981][ 25]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.06:981][ 25]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.06:981][ 25]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:008][ 26]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:008][ 26]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:008][ 26]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:008][ 26]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:035][ 27]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:036][ 27]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:036][ 27]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:036][ 27]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:062][ 28]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:062][ 28]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:063][ 28]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:063][ 28]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:091][ 29]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:091][ 29]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:092][ 29]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:092][ 29]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:121][ 30]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:121][ 30]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:121][ 30]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:122][ 30]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:152][ 31]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:152][ 31]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:153][ 31]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:153][ 31]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:180][ 32]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:181][ 32]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:181][ 32]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:181][ 32]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:210][ 33]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:210][ 33]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:211][ 33]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:211][ 33]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:238][ 34]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:238][ 34]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:238][ 34]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:238][ 34]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:266][ 35]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:267][ 35]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:267][ 35]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:267][ 35]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:295][ 36]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:295][ 36]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:295][ 36]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:295][ 36]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:322][ 37]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:322][ 37]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:322][ 37]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:322][ 37]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:348][ 38]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:348][ 38]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:349][ 38]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:349][ 38]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:376][ 39]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:376][ 39]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:376][ 39]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:376][ 39]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:402][ 40]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:402][ 40]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:403][ 40]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:403][ 40]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:429][ 41]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:429][ 41]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:430][ 41]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:430][ 41]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:456][ 42]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:456][ 42]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:456][ 42]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:457][ 42]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:484][ 43]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:484][ 43]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:485][ 43]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:485][ 43]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:515][ 44]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:515][ 44]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:516][ 44]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:516][ 44]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:542][ 45]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:542][ 45]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:543][ 45]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:543][ 45]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:570][ 46]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:570][ 46]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:571][ 46]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:571][ 46]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:599][ 47]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:599][ 47]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:600][ 47]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:600][ 47]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:627][ 48]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:627][ 48]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.07:627][ 48]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.04-15.33.07:627][ 48]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.04-15.33.11:746][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.33.52:308][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.34.03:162][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.34.10:902][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.34.20:771][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.34.20:905][451]BlueprintLog: New page: Compile trigger
+[2019.02.04-15.34.21:775][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/nextLevelTrigger/trigger" FILE="../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/nextLevelTrigger/trigger.uasset" SILENT=true
+[2019.02.04-15.34.21:826][451]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/triggerAF5FE5254FA46082B45407B3430981C3.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/nextLevelTrigger/trigger.uasset'
+[2019.02.04-15.34.30:938][644]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/nextLevelTrigger/nextLevelTrigger_BP.nextLevelTrigger_BP
+[2019.02.04-15.35.27:188][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.36.04:463][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.36.10:267][799]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.36.10:387][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/nextLevelTrigger/trigger" FILE="../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/nextLevelTrigger/trigger.uasset" SILENT=true
+[2019.02.04-15.36.10:604][799]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/triggerA15B3B074464410F7D9C909EC7A61BA0.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/nextLevelTrigger/trigger.uasset'
+[2019.02.04-15.37.14:458][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.37.14:585][934]BlueprintLog: New page: Compile trigger
+[2019.02.04-15.37.15:153][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/nextLevelTrigger/trigger" FILE="../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/nextLevelTrigger/trigger.uasset" SILENT=true
+[2019.02.04-15.37.15:239][934]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/triggerCC33A8C743DF8C016FA88D9DEC343BDF.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/nextLevelTrigger/trigger.uasset'
+[2019.02.04-15.37.26:767][480]LogEditorViewport: Clicking on Actor (context menu): trigger_C (trigger)
+[2019.02.04-15.37.26:844][480]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.37.34:160][832]LogEditorViewport: Clicking on Actor (LMB): maze_backtrack2_C (maze_backtrack2)
+[2019.02.04-15.37.34:941][868]LogEditorViewport: Clicking on Actor (LMB): trigger_C (trigger)
+[2019.02.04-15.37.35:759][913]LogEditorViewport: Clicking on Actor (context menu): trigger_C (trigger)
+[2019.02.04-15.37.35:812][913]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.37.43:453][240]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.37.56:361][332]LogSlate: Window 'Create Merged Actor' being destroyed
+[2019.02.04-15.37.56:371][332]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.02.04-15.37.56:404][332]LogStaticMesh: Building static mesh triggerMesh...
+[2019.02.04-15.37.56:431][332]LogStaticMesh: Built static mesh [0.03s] /Game/triggerMesh.triggerMesh
+[2019.02.04-15.37.56:455][332]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.38.05:307][442]LogSlate: Window 'Create Merged Actor' being destroyed
+[2019.02.04-15.38.05:324][442]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.38.05:339][442]LogStaticMesh: Building static mesh meshTrigger...
+[2019.02.04-15.38.05:358][442]LogStaticMesh: Built static mesh [0.02s] /Game/meshTrigger.meshTrigger
+[2019.02.04-15.38.05:379][442]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.38.05:668][443]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/level2_Auto1ECCC02F74FF92E836D698E871429CEAC.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/Autosaves/Game/Maps/level2_Auto1.umap'
+[2019.02.04-15.38.05:672][443]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/level2' took 0.239
+[2019.02.04-15.38.05:672][443]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.239
+[2019.02.04-15.38.05:674][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/nextLevelTrigger/nextLevelTrigger_BP] ([1] browsable assets)...
+[2019.02.04-15.38.05:709][443]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/nextLevelTrigger/nextLevelTrigger_BP.nextLevelTrigger_BP]
+[2019.02.04-15.38.05:710][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/nextLevelTrigger/nextLevelTrigger_BP]
+[2019.02.04-15.38.05:751][443]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/nextLevelTrigger_BP_Auto11F15506E4D92373FD9B28F984D46A11B.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/Autosaves/Game/nextLevelTrigger/nextLevelTrigger_BP_Auto1.uasset'
+[2019.02.04-15.38.05:753][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/triggerMesh] ([1] browsable assets)...
+[2019.02.04-15.38.05:789][443]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/triggerMesh.triggerMesh]
+[2019.02.04-15.38.05:789][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/triggerMesh]
+[2019.02.04-15.38.05:803][443]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/triggerMesh_Auto1F173B6754B38F395C1DF64BC95C3D88E.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/Autosaves/Game/triggerMesh_Auto1.uasset'
+[2019.02.04-15.38.05:804][443]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/meshTrigger] ([1] browsable assets)...
+[2019.02.04-15.38.05:840][443]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/meshTrigger.meshTrigger]
+[2019.02.04-15.38.05:840][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/meshTrigger]
+[2019.02.04-15.38.05:856][443]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/meshTrigger_Auto178809EA9446C39340EAD7FB2DA98779E.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/Autosaves/Game/meshTrigger_Auto1.uasset'
+[2019.02.04-15.38.05:857][443]LogFileHelpers: Auto-saving content packages took 0.184
+[2019.02.04-15.38.10:086][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.38.12:233][657]LogSlate: Window 'Create Merged Actor' being destroyed
+[2019.02.04-15.38.13:126][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.38.13:221][713]LogSlate: Window 'Merge Actors' being destroyed
+[2019.02.04-15.38.13:239][713]LogSlate: Window 'Merge Actors' being destroyed
+[2019.02.04-15.38.14:962][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.38.15:199][806]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/meshTrigger.meshTrigger
+[2019.02.04-15.38.16:862][807]LogRenderer: Reallocating scene render targets to support 952x564 Format 10 NumSamples 1 (Frame:1).
+[2019.02.04-15.38.34:937][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.38.38:665][610]LogSlate: Window 'Delete Assets' being destroyed
+[2019.02.04-15.38.38:679][610]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.38.38:713][610]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.38.41:425][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.38.55:264][454]LogEditorViewport: Clicking on Actor (LMB): nextLevelTrigger_BP_C (nextLevelTrigger_BP)
+[2019.02.04-15.38.56:999][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.39.09:001][126]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/triggerMesh08DEC7C640ABF0DFBC3693A06F6B2B14.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/nextLevelTrigger/triggerMesh.uasset'
+[2019.02.04-15.39.17:656][468]LogEditorViewport: Clicking on Actor (LMB): nextLevelTrigger_BP_C (nextLevelTrigger_BP)
+[2019.02.04-15.39.18:545][510]Cmd: DELETE
+[2019.02.04-15.39.18:545][510]Cmd: ACTOR DELETE
+[2019.02.04-15.39.18:568][510]LogEditorActor: Deleted Actor: nextLevelTrigger_BP_C
+[2019.02.04-15.39.18:665][510]LogEditorActor: Deleted 1 Actors (0.119 secs)
+[2019.02.04-15.39.26:088][783]LogEditorViewport: Clicking on Actor (LMB): trigger_C (trigger)
+[2019.02.04-15.39.29:084][955]Cmd: DELETE
+[2019.02.04-15.39.29:084][955]Cmd: ACTOR DELETE
+[2019.02.04-15.39.29:091][955]LogEditorActor: Deleted Actor: trigger_C
+[2019.02.04-15.39.29:204][955]LogEditorActor: Deleted 1 Actors (0.120 secs)
+[2019.02.04-15.39.30:257][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.39.30:560][ 15]LogActorFactory: Actor Factory created triggerMesh
+[2019.02.04-15.39.31:342][ 59]LogActorFactory: Actor Factory created triggerMesh
+[2019.02.04-15.39.43:035][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.39.53:943][217]LogSlate: Window 'Select Path' being destroyed
+[2019.02.04-15.39.54:392][217]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/trigger_Blueprint958D468A450D9628086B3ABC85020525.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/nextLevelTrigger/trigger_Blueprint.uasset'
+[2019.02.04-15.39.54:514][217]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/nextLevelTrigger/trigger_Blueprint.trigger_Blueprint
+[2019.02.04-15.39.58:581][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.40.42:188][902]BlueprintLog: New page: Compile trigger_Blueprint
+[2019.02.04-15.40.42:925][902]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/trigger_Blueprint722DC1D74BC83DEE203B86980EE98631.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/nextLevelTrigger/trigger_Blueprint.uasset'
+[2019.02.04-15.40.47:081][ 53]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.04-15.40.48:082][ 90]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.04-15.40.58:088][564]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/level21900C5AA4DAE84A0446957B5AAE4443B.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level2.umap'
+[2019.02.04-15.40.58:153][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/level2_BuiltData" FILE="../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level2_BuiltData.uasset" SILENT=true
+[2019.02.04-15.40.58:222][564]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/level2_BuiltData86AC1D044AD06969FBC1AA8C3D40DA7F.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level2_BuiltData.uasset'
+[2019.02.04-15.41.04:914][895]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/level1.level1
+[2019.02.04-15.41.06:296][895]LogSlate: Window 'Save Content' being destroyed
+[2019.02.04-15.41.06:741][895]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/level10429DC044A6BD2CCDA84CCA352A91C76.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level1.umap'
+[2019.02.04-15.41.06:761][895]LogFileHelpers: Saving map 'level1' took 0.450
+[2019.02.04-15.41.06:888][895]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/nextLevelTrigger_BP5260A96E45A726638D7B08BD222B2AF5.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/nextLevelTrigger/nextLevelTrigger_BP.uasset'
+[2019.02.04-15.41.06:899][895]Cmd: MAP LOAD FILE="../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.04-15.41.06:900][895]LightingResults: New page: Lighting Build
+[2019.02.04-15.41.06:901][895]LoadErrors: New page: Loading map: level1.umap
+[2019.02.04-15.41.06:904][895]MapCheck: New page: Map Check
+[2019.02.04-15.41.06:904][895]LightingResults: New page: Lighting Build
+[2019.02.04-15.41.06:973][895]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.04-15.41.07:070][895]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.04-15.41.07:070][895]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.287ms to complete.
+[2019.02.04-15.41.07:075][895]LogFileHelpers: Loading map 'level1' took 0.178
+[2019.02.04-15.41.14:020][295]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.02.04-15.41.24:089][794]LogEditorViewport: Clicking on Actor (LMB): nextLevelTrigger_BP_C (nextLevelTrigger_BP)
+[2019.02.04-15.41.24:992][841]Cmd: DELETE
+[2019.02.04-15.41.24:992][841]Cmd: ACTOR DELETE
+[2019.02.04-15.41.24:998][841]LogEditorActor: Deleted Actor: nextLevelTrigger_BP_C
+[2019.02.04-15.41.25:091][841]LogEditorActor: Deleted 1 Actors (0.098 secs)
+[2019.02.04-15.41.26:419][920]LogEditorViewport: Clicking on Actor (LMB): trigger_Blueprint_C (trigger_Blueprint)
+[2019.02.04-15.41.34:287][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.41.35:091][381]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/level10BD657B3450ABA961AEF89A8DDFE7F32.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level1.umap'
+[2019.02.04-15.41.35:161][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/level1_BuiltData" FILE="../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level1_BuiltData.uasset" SILENT=true
+[2019.02.04-15.41.35:409][381]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/level1_BuiltData591007094FBB389EFC20828D589695A8.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level1_BuiltData.uasset'
+[2019.02.04-15.41.43:921][845]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.02.04-15.41.48:997][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.41.53:311][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.41.54:122][381]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.04-15.41.54:191][381]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.04-15.41.54:191][381]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.04-15.41.54:197][381]LogPlayLevel: [PlayLevel] Compiling nextLevelTrigger_BP before play...
+[2019.02.04-15.41.54:579][381]LogPlayLevel: PlayLevel: Blueprint regeneration took 388 ms (1 blueprints)
+[2019.02.04-15.41.54:580][381]PIE: New page: PIE session: level1 (Feb 4, 2019, 5:41:54 PM)
+[2019.02.04-15.41.54:580][381]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_level1
+[2019.02.04-15.41.54:593][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012407s)
+[2019.02.04-15.41.54:594][381]LogAIModule: Creating AISystem for world level1
+[2019.02.04-15.41.54:594][381]LogPlayLevel: PIE: World Init took: (0.001258s)
+[2019.02.04-15.41.54:594][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/level1.level1 to /Game/Maps/UEDPIE_0_level1.level1 (0.013973s)
+[2019.02.04-15.41.54:674][381]LogInit: XAudio2 using 'Lautsprecher (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.04-15.41.54:717][381]LogInit: FAudioDevice initialized.
+[2019.02.04-15.41.54:718][381]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.41.54:759][381]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.04-15.41.54:765][381]LogWorld: Bringing World /Game/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.02.04-16.41.54
+[2019.02.04-15.41.54:766][381]LogWorld: Bringing up level for play took: 0.004903
+[2019.02.04-15.41.54:785][381]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_level1 -0.046
+[2019.02.04-15.41.54:786][381]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.04-15.42.17:513][742]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.04-15.42.17:513][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-15.42.17:557][742]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.04-15.42.17:558][742]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.04-15.42.17:614][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-15.42.17:654][743]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.02.04-15.42.24:385][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.42.24:587][104]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/nextLevelTrigger/trigger_Blueprint.trigger_Blueprint
+[2019.02.04-15.42.38:441][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.42.38:645][639]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/nextLevelTrigger/nextLevelTrigger_BP.nextLevelTrigger_BP
+[2019.02.04-15.43.06:197][617]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::OpenLevel' [Element not found.]
+[2019.02.04-15.43.21:700][218]BlueprintLog: New page: Compile nextLevelTrigger_BP
+[2019.02.04-15.44.05:263][914]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.44.23:791][509]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.44.24:873][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.44.30:597][732]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.44.42:499][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.44.42:632][144]BlueprintLog: New page: Compile trigger_Blueprint
+[2019.02.04-15.44.43:640][144]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/trigger_Blueprint3BE9188C41399FAA6EDA4D93E000E56B.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/nextLevelTrigger/trigger_Blueprint.uasset'
+[2019.02.04-15.44.49:897][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.45.16:908][389]BlueprintLog: New page: Compile trigger_Blueprint
+[2019.02.04-15.45.17:545][389]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/trigger_Blueprint8F65315E4B16D1556483D3902E5A8D08.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/nextLevelTrigger/trigger_Blueprint.uasset'
+[2019.02.04-15.45.19:713][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.45.23:594][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.45.24:619][692]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/level19ED4277A4473D6FBCC9DAA97FB8668C4.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level1.umap'
+[2019.02.04-15.45.24:697][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/level1_BuiltData" FILE="../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level1_BuiltData.uasset" SILENT=true
+[2019.02.04-15.45.24:894][692]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/level1_BuiltData11DC92A24C17F277932AE5AFE01254C7.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level1_BuiltData.uasset'
+[2019.02.04-15.45.25:284][713]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.45.26:308][766]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.04-15.45.26:375][766]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.04-15.45.26:375][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.04-15.45.26:375][766]PIE: New page: PIE session: level1 (Feb 4, 2019, 5:45:26 PM)
+[2019.02.04-15.45.26:375][766]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_level1
+[2019.02.04-15.45.26:391][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016570s)
+[2019.02.04-15.45.26:393][766]LogAIModule: Creating AISystem for world level1
+[2019.02.04-15.45.26:393][766]LogPlayLevel: PIE: World Init took: (0.001872s)
+[2019.02.04-15.45.26:393][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/level1.level1 to /Game/Maps/UEDPIE_0_level1.level1 (0.018855s)
+[2019.02.04-15.45.26:506][766]LogInit: XAudio2 using 'Lautsprecher (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.04-15.45.26:559][766]LogInit: FAudioDevice initialized.
+[2019.02.04-15.45.26:559][766]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.45.26:604][766]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.04-15.45.26:611][766]LogWorld: Bringing World /Game/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.02.04-16.45.26
+[2019.02.04-15.45.26:613][766]LogWorld: Bringing up level for play took: 0.006528
+[2019.02.04-15.45.26:634][766]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_level1 -0.198
+[2019.02.04-15.45.26:653][766]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.04-15.45.31:850][ 75]LogNet: Browse: /Game/Maps/level2
+[2019.02.04-15.45.31:850][ 75]LogLoad: LoadMap: /Game/Maps/level2
+[2019.02.04-15.45.32:024][ 75]LogAIModule: Creating AISystem for world level2
+[2019.02.04-15.45.32:025][ 75]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.04-15.45.32:069][ 75]LogWorld: Bringing World /Game/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2019.02.04-16.45.32
+[2019.02.04-15.45.32:071][ 75]LogWorld: Bringing up level for play took: 0.043573
+[2019.02.04-15.45.32:077][ 75]LogLoad: Took 0.227613 seconds to LoadMap(/Game/Maps/level2)
+[2019.02.04-15.45.34:450][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.45.37:483][383]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.04-15.45.37:495][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-15.45.37:546][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.04-15.45.37:547][383]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.04-15.45.37:648][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-15.45.37:681][384]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.02.04-15.45.49:301][968]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/level1.level1
+[2019.02.04-15.45.49:393][968]Cmd: MAP LOAD FILE="../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.04-15.45.49:394][968]LightingResults: New page: Lighting Build
+[2019.02.04-15.45.49:395][968]LoadErrors: New page: Loading map: level1.umap
+[2019.02.04-15.45.49:397][968]MapCheck: New page: Map Check
+[2019.02.04-15.45.49:397][968]LightingResults: New page: Lighting Build
+[2019.02.04-15.45.49:579][968]LogAIModule: Creating AISystem for world level1
+[2019.02.04-15.45.49:634][968]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.04-15.45.49:798][968]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.04-15.45.49:799][968]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.409ms to complete.
+[2019.02.04-15.45.49:803][968]LogFileHelpers: Loading map 'level1' took 0.411
+[2019.02.04-15.45.52:707][134]LogEditorViewport: Clicking on Actor (LMB): trigger_Blueprint_C (trigger_Blueprint2)
+[2019.02.04-15.45.53:474][171]Cmd: DELETE
+[2019.02.04-15.45.53:474][171]Cmd: ACTOR DELETE
+[2019.02.04-15.45.53:480][171]LogEditorActor: Deleted Actor: trigger_Blueprint_C
+[2019.02.04-15.45.53:579][171]LogEditorActor: Deleted 1 Actors (0.105 secs)
+[2019.02.04-15.45.58:166][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-15.46.00:508][576]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.02.04-15.46.29:933][348]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/level17B26C2CE479789CB0ED14A89E581DC24.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level1.umap'
+[2019.02.04-15.46.29:998][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/level1_BuiltData" FILE="../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level1_BuiltData.uasset" SILENT=true
+[2019.02.04-15.46.30:219][348]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/level1_BuiltDataEE7EDE254C502353A52F48A88C356C50.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/Maps/level1_BuiltData.uasset'
+[2019.02.04-15.46.36:290][700]LogEditorViewport: Clicking on Actor (LMB): trigger_Blueprint_C (trigger_Blueprint)
+[2019.02.04-15.46.37:657][771]LogEditorViewport: Clicking on Actor (LMB): maze_backtrack2_C (maze_backtrack2)
+[2019.02.04-15.46.38:462][817]LogEditorViewport: Clicking on Actor (LMB): trigger_Blueprint_C (trigger_Blueprint)
+[2019.02.04-15.46.45:554][160]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.46.50:717][382]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.04-15.46.55:387][603]LogEditorViewport: Clicking on Actor (LMB): trigger_Blueprint_C (trigger_Blueprint)
+[2019.02.04-15.46.55:547][604]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.02.04-15.46.56:754][672]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.46.58:259][750]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-15.46.58:275][750]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/nextLevelTrigger/trigger_Blueprint.trigger_Blueprint
+[2019.02.04-15.47.36:106][ 32]BlueprintLog: New page: Compile trigger_Blueprint
+[2019.02.04-15.47.36:768][ 32]LogSavePackage: Moving '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Saved/trigger_Blueprint5B099098434842BB483F118AEA189301.tmp' to '../../../../../../Users/jb/studium/5semester/gameEngines/mazeRunner/maze_runner/Content/nextLevelTrigger/trigger_Blueprint.uasset'
+[2019.02.04-15.47.43:253][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
