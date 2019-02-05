@@ -1,0 +1,1015 @@
+﻿Log file open, 02/05/19 13:58:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: unreal_project
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.259590
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.078s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Config/Windows/Engine.ini]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Config/Windows/Engine.ini]
+[2019.02.05-12.58.21:977][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Config/Windows/Engine.ini]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Config/Windows/Engine.ini]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.05-12.58.21:977][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Config/Windows/Engine.ini]
+[2019.02.05-12.58.21:977][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Config/Windows/Engine.ini]
+[2019.02.05-12.58.21:982][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.05-12.58.21:982][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.05-12.58.21:982][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.05-12.58.21:982][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.05-12.58.21:991][  0]LogHAL: Display: Platform has ~ 8 GB [8393609216 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.05-12.58.21:991][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.05-12.58.21:991][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.05-12.58.21:991][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.05-12.58.21:992][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.05-12.58.21:992][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.05-12.58.21:992][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.05-12.58.21:992][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.05-12.58.21:992][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.05-12.58.21:992][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.05-12.58.21:992][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.05-12.58.21:992][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-12.58.21:992][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.05-12.58.21:992][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.05-12.58.21:992][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.05-12.58.21:993][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.05-12.58.21:993][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Config/Windows/Engine.ini]
+[2019.02.05-12.58.21:993][  0]LogInit: Computer: DESKTOP-HFI58I4
+[2019.02.05-12.58.21:993][  0]LogInit: User: Dani
+[2019.02.05-12.58.21:993][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.05-12.58.21:993][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.02.05-12.58.21:993][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2019.02.05-12.58.21:993][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.05-12.58.21:993][  0]LogMemory: Process Physical Memory: 103.60 MB used, 103.60 MB peak
+[2019.02.05-12.58.21:993][  0]LogMemory: Process Virtual Memory: 91.17 MB used, 91.17 MB peak
+[2019.02.05-12.58.21:993][  0]LogMemory: Physical Memory: 4709.77 MB used,  3295.00 MB free, 8004.77 MB total
+[2019.02.05-12.58.21:993][  0]LogMemory: Virtual Memory: 4640.34 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.02.05-12.58.22:021][  0]LogInit: Using OS detected language (en-US).
+[2019.02.05-12.58.22:021][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.05-12.58.22:022][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.05-12.58.22:433][  0]LogStreaming: Display: Took  0.412s to InitEngineTextLocalization.
+[2019.02.05-12.58.22:433][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.05-12.58.22:473][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.05-12.58.22:473][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.05-12.58.22:786][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.05-12.58.22:786][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.05-12.58.22:860][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2019.02.05-12.58.22:860][  0]LogD3D11RHI:       128/0/4002 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.02.05-12.58.22:863][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.05-12.58.22:863][  0]LogD3D11RHI:       0/0/4002 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.05-12.58.22:863][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.05-12.58.22:868][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.05-12.58.22:868][  0]LogD3D11RHI:     GPU DeviceId: 0x3ea0 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.05-12.58.22:868][  0]LogWindows: EnumDisplayDevices:
+[2019.02.05-12.58.22:868][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2019.02.05-12.58.22:869][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.02.05-12.58.22:869][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.02.05-12.58.22:869][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.02.05-12.58.22:869][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2019.02.05-12.58.22:869][  0]LogD3D11RHI:   Driver Version: 24.20.100.6287 (internal:24.20.100.6287, unified:24.20.100.6287)
+[2019.02.05-12.58.22:869][  0]LogD3D11RHI:      Driver Date: 8-15-2018
+[2019.02.05-12.58.22:869][  0]LogRHI: Texture pool is 1490 MB (70% of 2129 MB)
+[2019.02.05-12.58.22:990][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.02.05-12.58.22:990][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.05-12.58.22:995][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.02.05-12.58.23:296][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.05-12.58.23:307][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.05-12.58.23:319][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.05-12.58.23:330][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.05-12.58.23:342][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.05-12.58.23:354][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.05-12.58.23:366][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.05-12.58.23:378][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.05-12.58.23:384][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.05-12.58.23:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.58.23:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.58.23:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.58.23:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.58.23:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.58.23:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.58.23:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.58.23:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.58.23:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.58.23:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.58.23:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.58.23:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.58.23:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.58.23:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.58.23:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.58.23:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.58.23:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.58.23:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-12.58.23:452][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.05-12.58.23:512][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.05-12.58.23:512][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.05-12.58.23:531][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.05-12.58.23:531][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.05-12.58.23:543][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.05-12.58.23:555][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.05-12.58.23:566][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.05-12.58.23:579][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.05-12.58.23:617][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.05-12.58.23:617][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.05-12.58.23:617][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.05-12.58.23:687][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Intermediate/Shaders/WorkingDirectory/5332/).
+[2019.02.05-12.58.23:688][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dani/AppData/Local/Temp/UnrealShaderWorkingDir/43CCD1594B13417E253992B7DC0B3AD2/'.
+[2019.02.05-12.58.23:690][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.05-12.58.23:690][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.05-12.58.23:690][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.05-12.58.24:233][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.05-12.58.24:304][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Dani/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.05-12.58.24:304][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Dani/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.05-12.58.24:305][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.05-12.58.24:305][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.05-12.58.24:305][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.05-12.58.24:305][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.05-12.58.24:315][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.05-12.58.24:315][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.05-12.58.24:315][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.05-12.58.24:328][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Dani/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.05-12.58.24:328][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.05-12.58.24:328][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.05-12.58.24:346][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.05-12.58.24:348][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.05-12.58.24:349][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.05-12.58.24:490][  0]LogAssetRegistry: FAssetRegistry took 0.0315 seconds to start up
+[2019.02.05-12.58.24:749][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.05-12.58.24:910][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.05-12.58.24:915][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.05-12.58.24:915][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.05-12.58.24:915][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.05-12.58.24:915][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.05-12.58.24:927][  0]LogNetVersion: unreal_project 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2550434977)
+[2019.02.05-12.58.25:402][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.083627 seconds
+[2019.02.05-12.58.25:409][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.05-12.58.25:409][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.02.05-12.58.25:409][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.05-12.58.26:894][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.05-12.58.26:912][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.05-12.58.27:559][  0]SourceControl: Source control is disabled
+[2019.02.05-12.58.27:559][  0]SourceControl: Source control is disabled
+[2019.02.05-12.58.27:562][  0]SourceControl: Source control is disabled
+[2019.02.05-12.58.27:564][  0]SourceControl: Source control is disabled
+[2019.02.05-12.58.27:768][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.05-12.58.27:828][  0]LogOcInput: OculusInput pre-init called
+[2019.02.05-12.58.27:974][  0]LogEngine: Initializing Engine...
+[2019.02.05-12.58.27:975][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.05-12.58.27:976][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.05-12.58.27:976][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.05-12.58.27:976][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.05-12.58.27:976][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.05-12.58.28:176][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.05-12.58.28:203][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.05-12.58.28:213][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.05-12.58.28:295][  0]LogInit: FAudioDevice initialized.
+[2019.02.05-12.58.28:295][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.05-12.58.29:083][  0]LogDerivedDataCache: Saved boot cache 0.79s 71MB C:/Users/Dani/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.05-12.58.29:090][  0]LogInit: Texture streaming: Enabled
+[2019.02.05-12.58.29:119][  0]LogInit: Transaction tracking system initialized
+[2019.02.05-12.58.29:153][  0]BlueprintLog: New page: Editor Load
+[2019.02.05-12.58.29:235][  0]LocalizationService: Localization service is disabled
+[2019.02.05-12.58.29:648][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/' took 0.02s
+[2019.02.05-12.58.29:648][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.05-12.58.29:648][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.05-12.58.29:648][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.05-12.58.29:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.05-12.58.29:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.05-12.58.29:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.05-12.58.29:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.05-12.58.29:781][  0]SourceControl: Source control is disabled
+[2019.02.05-12.58.29:781][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Maps/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.05-12.58.29:781][  0]LightingResults: New page: Lighting Build
+[2019.02.05-12.58.29:784][  0]MapCheck: New page: Map Check
+[2019.02.05-12.58.29:784][  0]LightingResults: New page: Lighting Build
+[2019.02.05-12.58.30:327][  0]LogAIModule: Creating AISystem for world level1
+[2019.02.05-12.58.30:339][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.05-12.58.30:360][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.05-12.58.30:360][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.128ms to complete.
+[2019.02.05-12.58.30:360][  0]LogFileHelpers: Loading map 'level1' took 0.579
+[2019.02.05-12.58.30:444][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-12.58.30:450][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-12.58.30:455][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-12.58.30:461][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-12.58.30:464][  0]LogCollectionManager: Loaded 0 collections in 0.000814 seconds
+[2019.02.05-12.58.30:491][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/Collections/' took 0.01s
+[2019.02.05-12.58.30:491][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Developers/Dani/Collections/' took 0.00s
+[2019.02.05-12.58.30:491][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Collections/' took 0.01s
+[2019.02.05-12.58.30:491][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.05-12.58.30:497][  0]LogContentBrowser: Native class hierarchy populated in 0.0065 seconds. Added 2651 classes and 620 folders.
+[2019.02.05-12.58.30:501][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.05-12.58.30:502][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:503][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:503][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:504][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:504][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:504][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:505][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:505][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:505][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:505][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:506][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:506][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:506][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:507][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:507][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:507][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:508][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:508][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:509][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:509][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:509][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:510][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:510][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:510][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:511][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:511][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-12.58.30:538][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.05-12.58.30:541][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.02.05-12.58.30:585][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.05-12.58.30:587][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.05-12.58.30:590][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.05-12.58.30:654][  0]LogRenderer: Reallocating scene render targets to support 748x340 Format 10 NumSamples 1 (Frame:1).
+[2019.02.05-12.58.30:772][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.05-12.58.30:772][  0]LogLoad: (Engine Initialization) Total time: 10.70 seconds
+[2019.02.05-12.58.30:772][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.05-12.58.30:838][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.05-12.58.30:860][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.05-12.58.31:309][  2]LogAssetRegistry: Asset discovery search completed in 6.8416 seconds
+[2019.02.05-12.58.31:310][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.05-12.58.31:310][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2019.02.05-12.58.31:971][ 12]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.05-12.58.34:608][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-12.58.40:377][230]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.02.05-12.58.40:775][230]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.02.05-12.58.41:403][230]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.05-12.58.43:314][292]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.05-13.02.15:124][ 27]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MazeItems/Energy/BP_Real_Energy.BP_Real_Energy
+[2019.02.05-13.02.41:822][126]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.02.05-13.02.41:902][126]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.02.05-13.02.42:331][126]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/ThirdPersonCharacterC0028DBF45E7D712158E33BD40CF0B4B.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.02.05-13.02.42:340][126]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0262.26] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 517 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.02.05-13.03.13:241][690]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.02.05-13.03.13:712][690]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/ThirdPersonCharacter36D00597412C6AB92C8FA3BDCDD197D7.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.02.05-13.03.38:674][827]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.02.05-13.03.39:179][827]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/ThirdPersonCharacter55FB9888429088BAB46021AEE4B3A2B8.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.02.05-13.03.44:404][ 57]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-13.03.44:437][ 57]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.03.44:437][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-13.03.44:438][ 57]PIE: New page: PIE session: level1 (Feb 5, 2019, 3:03:44 PM)
+[2019.02.05-13.03.44:451][ 57]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_level1
+[2019.02.05-13.03.44:461][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010056s)
+[2019.02.05-13.03.44:462][ 57]LogAIModule: Creating AISystem for world level1
+[2019.02.05-13.03.44:463][ 57]LogPlayLevel: PIE: World Init took: (0.001112s)
+[2019.02.05-13.03.44:463][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/level1.level1 to /Game/Maps/UEDPIE_0_level1.level1 (0.011658s)
+[2019.02.05-13.03.44:516][ 57]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.05-13.03.44:632][ 57]LogInit: FAudioDevice initialized.
+[2019.02.05-13.03.44:725][ 57]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.05-13.03.44:730][ 57]LogWorld: Bringing World /Game/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.02.05-14.03.44
+[2019.02.05-13.03.44:731][ 57]LogWorld: Bringing up level for play took: 0.003470
+[2019.02.05-13.03.44:755][ 57]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.02.05-13.03.44:759][ 57]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_level1 1.118
+[2019.02.05-13.03.44:759][ 57]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.03.45:977][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-13.03.49:689][323]PIE: Warning: Projectile_C_0.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.05-13.03.51:218][410]PIE: Warning: Projectile_C_1.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.05-13.03.52:781][498]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.03.52:781][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-13.03.52:837][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-13.03.52:837][498]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.03.52:889][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-13.03.52:902][498]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-13.03.52:952][499]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.02.05-13.03.54:366][557]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-13.03.54:401][557]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-13.03.57:331][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-13.05.03:332][871]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ThirdPersonBP/Blueprints/solid_9_slide_wav_Cue.solid_9_slide_wav_Cue'
+[2019.02.05-13.05.03:363][871]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/projectile_hit_sound30BAC2B74803B5475EE13DA2962F3DF6.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/ThirdPersonBP/Blueprints/projectile_hit_sound.uasset'
+[2019.02.05-13.05.17:376][273]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.02.05-13.05.17:904][273]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/ThirdPersonCharacter933CD1544E5F99E0A4882DA0CE6C8CAE.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.02.05-13.05.18:614][293]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/ThirdPersonCharacter4E38BA444834682ED072BF89AB6B12C5.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.02.05-13.05.22:396][384]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-13.05.22:450][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.05.22:450][384]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.05-13.05.22:456][384]LogPlayLevel: [PlayLevel] Compiling level1 before play...
+[2019.02.05-13.05.22:722][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/level1" FILE="../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Maps/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.05-13.05.22:812][384]LogPlayLevel: [PlayLevel]   Compiling level1 as a dependent...
+[2019.02.05-13.05.23:091][384]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/level1E720956F42557B0B8D9324A49E89F03B.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Maps/level1.umap'
+[2019.02.05-13.05.23:136][384]LogFileHelpers: Saving map 'level1' took 0.414
+[2019.02.05-13.05.23:179][384]LogPlayLevel: PlayLevel: Blueprint regeneration took 729 ms (2 blueprints)
+[2019.02.05-13.05.23:179][384]PIE: New page: PIE session: level1 (Feb 5, 2019, 3:05:23 PM)
+[2019.02.05-13.05.23:180][384]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_level1
+[2019.02.05-13.05.23:186][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006072s)
+[2019.02.05-13.05.23:186][384]LogAIModule: Creating AISystem for world level1
+[2019.02.05-13.05.23:186][384]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2019.02.05-13.05.23:186][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/level1.level1 to /Game/Maps/UEDPIE_0_level1.level1 (0.006798s)
+[2019.02.05-13.05.23:226][384]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.05-13.05.23:324][384]LogInit: FAudioDevice initialized.
+[2019.02.05-13.05.23:355][384]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.05-13.05.23:358][384]LogWorld: Bringing World /Game/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.02.05-14.05.23
+[2019.02.05-13.05.23:359][384]LogWorld: Bringing up level for play took: 0.002556
+[2019.02.05-13.05.23:373][384]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_level1 1.733
+[2019.02.05-13.05.23:373][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.05.27:578][600]PIE: Warning: Projectile_C_0.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.05-13.05.29:097][682]PIE: Warning: Projectile_C_1.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.05-13.05.30:622][763]PIE: Warning: Projectile_C_2.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.05-13.05.35:712][ 38]PIE: Warning: Projectile_C_3.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.05-13.05.37:234][122]PIE: Warning: Projectile_C_4.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.05-13.05.38:765][206]PIE: Warning: Projectile_C_5.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.05-13.05.40:286][290]PIE: Warning: Projectile_C_6.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.05-13.05.42:320][402]PIE: Warning: Projectile_C_7.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.05-13.05.43:841][486]PIE: Warning: Projectile_C_8.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.05-13.05.45:367][572]PIE: Warning: Projectile_C_9.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.05-13.05.47:515][693]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.05.47:515][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-13.05.47:572][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-13.05.47:573][693]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.05.47:624][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-13.05.47:638][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-13.05.47:688][694]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.02.05-13.05.48:756][735]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-13.05.48:788][735]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-13.05.51:668][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-13.08.09:422][ 72]LogSlate: Window 'Delete Assets' being destroyed
+[2019.02.05-13.08.12:453][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/level1" FILE="../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Maps/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.05-13.08.12:763][145]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/level1CC3E210346FD8EBE15592E8D0ACBC1FE.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Maps/level1.umap'
+[2019.02.05-13.09.28:633][ 60]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.02.05-13.09.29:216][ 60]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/ThirdPersonCharacter78C9F88048F2CB86AA7AFFA7CBECE945.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.02.05-13.09.30:375][ 97]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/ThirdPersonCharacterF05A542F44A08221E6ACAD9B6DF5A97A.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.02.05-13.09.35:789][355]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-13.09.35:837][355]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.09.35:837][355]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-13.09.35:838][355]PIE: New page: PIE session: level1 (Feb 5, 2019, 3:09:35 PM)
+[2019.02.05-13.09.35:838][355]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_level1
+[2019.02.05-13.09.35:848][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009750s)
+[2019.02.05-13.09.35:849][355]LogAIModule: Creating AISystem for world level1
+[2019.02.05-13.09.35:849][355]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2019.02.05-13.09.35:849][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/level1.level1 to /Game/Maps/UEDPIE_0_level1.level1 (0.011046s)
+[2019.02.05-13.09.35:914][355]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.05-13.09.36:033][355]LogInit: FAudioDevice initialized.
+[2019.02.05-13.09.36:075][355]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.05-13.09.36:079][355]LogWorld: Bringing World /Game/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.02.05-14.09.36
+[2019.02.05-13.09.36:080][355]LogWorld: Bringing up level for play took: 0.003274
+[2019.02.05-13.09.36:096][355]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_level1 0.456
+[2019.02.05-13.09.36:096][355]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.09.42:171][677]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.09.42:172][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-13.09.42:229][677]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-13.09.42:229][677]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.09.42:289][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-13.09.42:310][678]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.02.05-13.09.49:348][869]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/topView/topView_Blueprint.topView_Blueprint
+[2019.02.05-13.10.49:130][182]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.02.05-13.10.49:662][182]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/ThirdPersonCharacterEA50DD55423AA1C56D31249A6889276A.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.02.05-13.10.50:350][202]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/ThirdPersonCharacter3663B9704F2E674F464CECB3B171913D.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.02.05-13.11.27:307][634]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.02.05-13.11.27:829][634]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/ThirdPersonCharacterD4ADCF33411556D6287642853609B6B4.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.02.05-13.11.28:466][652]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/ThirdPersonCharacter96BED67C4504367CCB9855960F6A6B70.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.02.05-13.11.54:227][337]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2019.02.05-13.12.04:591][719]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2019.02.05-13.12.04:953][719]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/ThirdPersonGameModeB8D96732406A1E60100415BDDA759F16.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2019.02.05-13.12.05:441][736]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/ThirdPersonGameModeC96291A74D61ACAF05C905A3EC55969C.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2019.02.05-13.12.10:230][922]LogUObjectArray: Warning: Other object in slot
+[2019.02.05-13.12.10:230][922]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.02.05-13.12.11:381][922]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.151 s
+[2019.02.05-13.12.11:381][922]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.05-13.12.11:381][922]LogOutputDevice: Error: 
+[2019.02.05-13.12.11:381][922]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.02.05-13.12.11:381][922]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.02.05-13.12.11:381][922]LogOutputDevice: Error: Stack: 
+[2019.02.05-13.12.11:381][922]LogOutputDevice: Error: [Callstack] 0x00007ff8fac48304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.05-13.12.11:381][922]LogOutputDevice: Error: [Callstack] 0x00007ff8fac581ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.05-13.12.11:381][922]LogOutputDevice: Error: [Callstack] 0x00007ff8f81cbcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.02.05-13.12.11:381][922]LogOutputDevice: Error: [Callstack] 0x00007ff8f70b769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.02.05-13.12.11:381][922]LogOutputDevice: Error: [Callstack] 0x00007ff8f7070917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.02.05-13.12.11:381][922]LogOutputDevice: Error: [Callstack] 0x00007ff8ffb37c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.05-13.12.11:381][922]LogOutputDevice: Error: [Callstack] 0x00007ff8ffd84393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.05-13.12.11:381][922]LogOutputDevice: Error: [Callstack] 0x00007ff8ffb92d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.05-13.12.11:381][922]LogOutputDevice: Error: [Callstack] 0x00007ff8ffb68a70 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.05-13.12.11:381][922]LogOutputDevice: Error: [Callstack] 0x00007ff8ffb5b263 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.05-13.12.11:381][922]LogOutputDevice: Error: [Callstack] 0x00007ff904c1dc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.05-13.12.11:381][922]LogOutputDevice: Error: [Callstack] 0x00007ff904c10de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.05-13.12.11:381][922]LogOutputDevice: Error: [Callstack] 0x00007ff904c201eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.05-13.12.11:381][922]LogOutputDevice: Error: [Callstack] 0x00007ff904c0ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.05-13.12.11:382][922]LogOutputDevice: Error: [Callstack] 0x00007ff953ccca66 USER32.dll!UnknownFunction []
+[2019.02.05-13.12.11:382][922]LogOutputDevice: Error: [Callstack] 0x00007ff953ccc582 USER32.dll!UnknownFunction []
+[2019.02.05-13.12.11:382][922]LogOutputDevice: Error: [Callstack] 0x00007ff904c21746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.05-13.12.11:382][922]LogOutputDevice: Error: [Callstack] 0x00007ff6d7c65546 UE4Editor.exe!UnknownFunction []
+[2019.02.05-13.12.11:382][922]LogOutputDevice: Error: [Callstack] 0x00007ff6d7c7596c UE4Editor.exe!UnknownFunction []
+[2019.02.05-13.12.11:382][922]LogOutputDevice: Error: [Callstack] 0x00007ff6d7c759ea UE4Editor.exe!UnknownFunction []
+[2019.02.05-13.12.11:382][922]LogOutputDevice: Error: [Callstack] 0x00007ff6d7c848da UE4Editor.exe!UnknownFunction []
+[2019.02.05-13.12.11:382][922]LogOutputDevice: Error: [Callstack] 0x00007ff6d7c8659a UE4Editor.exe!UnknownFunction []
+[2019.02.05-13.12.11:382][922]LogOutputDevice: Error: [Callstack] 0x00007ff9536281f4 KERNEL32.DLL!UnknownFunction []
+[2019.02.05-13.12.11:382][922]LogOutputDevice: Error: [Callstack] 0x00007ff95617a251 ntdll.dll!UnknownFunction []
+[2019.02.05-13.12.11:382][922]LogOutputDevice: Error: 
+[2019.02.05-13.12.11:393][922]LogStats:                SubmitErrorReport -  0.000 s
+[2019.02.05-13.12.12:390][922]LogStats:                    SendNewReport -  0.997 s
+[2019.02.05-13.12.12:390][922]LogStats:             FDebug::EnsureFailed -  2.159 s
+[2019.02.05-13.12.12:390][922]LogUObjectArray: Warning: Other object in slot
+[2019.02.05-13.12.18:314][155]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.05-13.12.26:450][445]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.02.05-13.12.26:459][445]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.02.05-13.12.26:461][445]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.05-13.12.31:644][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/level1" FILE="../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Maps/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.05-13.12.32:031][620]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/level1CA1586524CC7DE6D65B6D985F74C8D96.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Maps/level1.umap'
+[2019.02.05-13.12.34:365][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/topView/topView_Blueprint" FILE="../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/topView/topView_Blueprint.uasset" SILENT=true
+[2019.02.05-13.12.34:414][735]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/topView_Blueprint345E42F54C9D09FB87B747AF6D067250.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/topView/topView_Blueprint.uasset'
+[2019.02.05-13.12.41:197][ 36]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/maze/maze_backtrack2.maze_backtrack2
+[2019.02.05-13.13.04:338][899]LogRenderer: Reallocating scene render targets to support 748x404 Format 10 NumSamples 1 (Frame:1).
+[2019.02.05-13.13.15:632][275]LogSlate: Window 'maze_backtrack2' being destroyed
+[2019.02.05-13.13.15:677][275]LogSlate: Window 'maze_backtrack2' being destroyed
+[2019.02.05-13.13.22:736][584]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/changeCamera/cameraTopView_BP.cameraTopView_BP
+[2019.02.05-13.13.25:151][662]LogSlate: Window 'cameraTopView_BP' being destroyed
+[2019.02.05-13.13.25:291][662]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/changeCamera/cameraTopView_BP.cameraTopView_BP
+[2019.02.05-13.13.37:218][ 94]LogSlate: Window 'cameraTopView_BP' being destroyed
+[2019.02.05-13.13.37:250][ 94]LogSlate: Window 'cameraTopView_BP' being destroyed
+[2019.02.05-13.13.40:709][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/level1" FILE="../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Maps/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.05-13.13.41:067][261]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/level1B029423E469A72000785DE880AE72AD0.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Maps/level1.umap'
+[2019.02.05-13.14.07:540][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-13.14.07:649][600]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-13.14.07:702][600]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.14.07:703][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-13.14.07:703][600]PIE: New page: PIE session: level1 (Feb 5, 2019, 3:14:07 PM)
+[2019.02.05-13.14.07:703][600]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_level1
+[2019.02.05-13.14.07:714][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010458s)
+[2019.02.05-13.14.07:714][600]LogAIModule: Creating AISystem for world level1
+[2019.02.05-13.14.07:715][600]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2019.02.05-13.14.07:715][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/level1.level1 to /Game/Maps/UEDPIE_0_level1.level1 (0.011673s)
+[2019.02.05-13.14.07:778][600]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.05-13.14.07:907][600]LogInit: FAudioDevice initialized.
+[2019.02.05-13.14.07:946][600]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.05-13.14.07:951][600]LogWorld: Bringing World /Game/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.02.05-14.14.07
+[2019.02.05-13.14.07:952][600]LogWorld: Bringing up level for play took: 0.005039
+[2019.02.05-13.14.07:970][600]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_level1 0.33
+[2019.02.05-13.14.07:970][600]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.14.12:377][833]PIE: Warning: Projectile_C_0.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.05-13.14.13:906][917]PIE: Warning: Projectile_C_1.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.05-13.14.24:554][483]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.14.24:554][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-13.14.24:610][483]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-13.14.24:610][483]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.14.24:669][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-13.14.24:685][483]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-13.14.24:802][484]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.02.05-13.14.26:149][539]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-13.14.26:180][539]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-13.14.28:340][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-13.14.59:601][415]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/nextLevelTrigger/level3Trigger.level3Trigger
+[2019.02.05-13.18.27:323][687]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/next_level_soundB2792E7841C4B01C3B536D8F44BBDA66.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/nextLevelTrigger/next_level_sound.uasset'
+[2019.02.05-13.18.40:216][ 78]BlueprintLog: New page: Compile level3Trigger
+[2019.02.05-13.18.40:622][ 78]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/level3Trigger1F604F874B20F790DBDFE280C5112103.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/nextLevelTrigger/level3Trigger.uasset'
+[2019.02.05-13.18.48:013][366]BlueprintLog: New page: Compile level3Trigger
+[2019.02.05-13.18.48:407][366]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/level3Trigger5D3D699A4607A04FF585DAABC5307B7B.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/nextLevelTrigger/level3Trigger.uasset'
+[2019.02.05-13.18.48:859][380]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/level3Trigger0DBE5BBF4694EC2E7A59A4966BF7E998.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/nextLevelTrigger/level3Trigger.uasset'
+[2019.02.05-13.18.52:264][534]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-13.18.52:304][534]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.18.52:304][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-13.18.52:305][534]PIE: New page: PIE session: level1 (Feb 5, 2019, 3:18:52 PM)
+[2019.02.05-13.18.52:305][534]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_level1
+[2019.02.05-13.18.52:315][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010121s)
+[2019.02.05-13.18.52:316][534]LogAIModule: Creating AISystem for world level1
+[2019.02.05-13.18.52:316][534]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2019.02.05-13.18.52:316][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/level1.level1 to /Game/Maps/UEDPIE_0_level1.level1 (0.011324s)
+[2019.02.05-13.18.52:370][534]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.05-13.18.52:488][534]LogInit: FAudioDevice initialized.
+[2019.02.05-13.18.52:534][534]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.05-13.18.52:541][534]LogWorld: Bringing World /Game/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.02.05-14.18.52
+[2019.02.05-13.18.52:542][534]LogWorld: Bringing up level for play took: 0.006769
+[2019.02.05-13.18.52:559][534]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_level1 0.919
+[2019.02.05-13.18.52:560][534]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.18.57:261][781]PIE: Warning: Projectile_C_0.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.05-13.18.59:825][920]PIE: Warning: Projectile_C_1.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.05-13.19.01:371][  4]PIE: Warning: Projectile_C_2.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.05-13.19.02:882][ 86]PIE: Warning: Projectile_C_3.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.05-13.21.08:720][887]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.21.08:720][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-13.21.08:778][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-13.21.08:778][887]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.21.08:834][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-13.21.08:848][887]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-13.21.08:971][888]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.02.05-13.21.10:882][965]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-13.21.10:915][965]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-13.21.15:023][166]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.02.05-13.21.20:058][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-13.21.31:195][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-13.21.31:260][767]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-13.21.31:305][767]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.21.31:306][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-13.21.31:306][767]PIE: New page: PIE session: level1 (Feb 5, 2019, 3:21:31 PM)
+[2019.02.05-13.21.31:306][767]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_level1
+[2019.02.05-13.21.31:316][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010154s)
+[2019.02.05-13.21.31:317][767]LogAIModule: Creating AISystem for world level1
+[2019.02.05-13.21.31:317][767]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2019.02.05-13.21.31:317][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/level1.level1 to /Game/Maps/UEDPIE_0_level1.level1 (0.011429s)
+[2019.02.05-13.21.31:375][767]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.05-13.21.31:496][767]LogInit: FAudioDevice initialized.
+[2019.02.05-13.21.31:535][767]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.05-13.21.31:539][767]LogWorld: Bringing World /Game/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.02.05-14.21.31
+[2019.02.05-13.21.31:540][767]LogWorld: Bringing up level for play took: 0.003625
+[2019.02.05-13.21.31:557][767]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_level1 -0.083
+[2019.02.05-13.21.31:557][767]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.21.38:388][128]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.21.38:388][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-13.21.38:442][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-13.21.38:442][128]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.21.38:501][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-13.21.38:530][129]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.02.05-13.21.41:304][191]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-13.21.51:823][498]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Key_Door_Mechanics/BP_Blue_Door.BP_Blue_Door
+[2019.02.05-13.21.59:096][692]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.02.05-13.22.35:577][ 55]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Key_Door_Mechanics/BP_Real_Key.BP_Real_Key
+[2019.02.05-13.22.49:167][397]LogLinker: Can't find file '/Game/MazeItems/Key_Door_Mechanics/BP_Real_Key'
+[2019.02.05-13.22.49:168][397]LogLinker: Can't find file '/Game/MazeItems/Key_Door_Mechanics/BP_Real_Key'
+[2019.02.05-13.23.28:575][161]LogLinker: Warning: Can't find file '/Game/MazeItems/Key_Door_Mechanics/key_Cue'
+[2019.02.05-13.23.28:576][161]LogLinker: Warning: Can't find file '/Game/MazeItems/Key_Door_Mechanics/key_Cue'
+[2019.02.05-13.23.28:577][161]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MazeItems/Key_Door_Mechanics/key_Cue.key_Cue'
+[2019.02.05-13.24.14:358][833]LogSlate: Window 'Delete Assets' being destroyed
+[2019.02.05-13.24.23:783][162]LogMetaData: Removing '/Game/Key_Door_Mechanics/closed_sound.closed_sound:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/Key_Door_Mechanics/closed_Cue.PackageMetaData'
+[2019.02.05-13.24.23:820][162]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/closed_sound270434C84703A7BC901DC697C15BE5CB.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Key_Door_Mechanics/closed_sound.uasset'
+[2019.02.05-13.24.24:252][162]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/BP_Blue_Door252078A34E2E047F4D4F4AAE4460414D.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Key_Door_Mechanics/BP_Blue_Door.uasset'
+[2019.02.05-13.24.30:234][389]LogMetaData: Removing '/Game/Key_Door_Mechanics/open_sound.open_sound:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/Key_Door_Mechanics/open_Cue.PackageMetaData'
+[2019.02.05-13.24.30:269][389]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/open_soundECCE17F54FAFC5EF9B4698AEA97A9F61.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Key_Door_Mechanics/open_sound.uasset'
+[2019.02.05-13.24.30:684][389]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/BP_Blue_DoorE7E5610B45823016CBD82590E2C95840.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Key_Door_Mechanics/BP_Blue_Door.uasset'
+[2019.02.05-13.24.44:734][462]LogSlate: Window 'Delete Assets' being destroyed
+[2019.02.05-13.25.19:222][653]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Key_Door_Mechanics/ampula_surface1_wav_Cue.ampula_surface1_wav_Cue'
+[2019.02.05-13.25.19:241][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Key_Door_Mechanics/key_sound" FILE="../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Key_Door_Mechanics/key_sound.uasset" SILENT=true
+[2019.02.05-13.25.19:249][653]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/key_soundD67EA4244E1F861DF719AA864AF6C01D.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Key_Door_Mechanics/key_sound.uasset'
+[2019.02.05-13.25.23:220][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/level1" FILE="../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Maps/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.05-13.25.23:630][765]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/level1584F2B2342C1FED4B726A3A97A6CE1DC.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Maps/level1.umap'
+[2019.02.05-13.25.33:132][ 79]LogUObjectBase: Warning: Object is not registered
+[2019.02.05-13.25.33:132][ 79]LogUObjectBase: Warning: Object is not registered
+[2019.02.05-13.25.33:135][ 79]LogUObjectBase: Warning: Object is not registered
+[2019.02.05-13.25.33:788][103]BlueprintLog: New page: Compile BP_Real_Key
+[2019.02.05-13.25.34:281][103]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/BP_Real_KeyDDAED186416F99097942A88D6145F041.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Key_Door_Mechanics/BP_Real_Key.uasset'
+[2019.02.05-13.25.34:900][122]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/BP_Real_Key4FCF4109436C20E7CD594FB5A809DC23.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Key_Door_Mechanics/BP_Real_Key.uasset'
+[2019.02.05-13.25.37:325][221]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-13.25.37:393][221]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.25.37:393][221]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.05-13.25.37:406][221]LogPlayLevel: [PlayLevel] Compiling BP_Blue_Door before play...
+[2019.02.05-13.25.37:714][221]LogPlayLevel: PlayLevel: Blueprint regeneration took 320 ms (1 blueprints)
+[2019.02.05-13.25.37:714][221]PIE: New page: PIE session: level1 (Feb 5, 2019, 3:25:37 PM)
+[2019.02.05-13.25.37:714][221]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_level1
+[2019.02.05-13.25.37:723][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008498s)
+[2019.02.05-13.25.37:723][221]LogAIModule: Creating AISystem for world level1
+[2019.02.05-13.25.37:724][221]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2019.02.05-13.25.37:724][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/level1.level1 to /Game/Maps/UEDPIE_0_level1.level1 (0.009463s)
+[2019.02.05-13.25.37:777][221]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.05-13.25.37:882][221]LogInit: FAudioDevice initialized.
+[2019.02.05-13.25.37:920][221]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.05-13.25.37:925][221]LogWorld: Bringing World /Game/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.02.05-14.25.37
+[2019.02.05-13.25.37:925][221]LogWorld: Bringing up level for play took: 0.003738
+[2019.02.05-13.25.37:942][221]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_level1 0.301
+[2019.02.05-13.25.37:942][221]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.25.43:652][515]PIE: Warning: Projectile_C_0.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.05-13.25.45:173][595]PIE: Warning: Projectile_C_1.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.05-13.25.46:692][674]PIE: Warning: Projectile_C_2.Sphere ProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.02.05-13.26.51:420][109]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-3.30 Y=97.80 Z=0.00 Location: X=6218.16 Y=5871.20 Z=106.27 Normal: X=-0.95 Y=-0.17 Z=-0.25 PenetrationDepth:83.784 Actor:BP_Blue_Door_2 Component:Door BoneName:None (0 other events since notify)
+[2019.02.05-13.26.52:975][186]LogNet: Browse: /Game/Maps/level2
+[2019.02.05-13.26.52:993][186]LogLoad: LoadMap: /Game/Maps/level2
+[2019.02.05-13.26.53:256][186]LogLinker: Warning: Can't find file '/Game/Maps/level2_BuiltData'
+[2019.02.05-13.26.53:256][186]LogLinker: Warning: Can't find file for asset '/Game/Maps/level2_BuiltData' while loading ../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Maps/level2.umap.
+[2019.02.05-13.26.53:256][186]LoadErrors: Error: /Game/Maps/level2 : Can't find file for asset. /Game/Maps/level2_BuiltData
+[2019.02.05-13.26.53:291][186]LogLinker: Warning: Can't find file '/Game/Maps/level2_BuiltData'
+[2019.02.05-13.26.53:292][186]LogLinker: Warning: Can't find file for asset '/Game/Maps/level2_BuiltData' while loading ../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Maps/level2.umap.
+[2019.02.05-13.26.53:296][186]LogLinker: Warning: Can't find file '/Game/Maps/level2_BuiltData'
+[2019.02.05-13.26.53:296][186]LogLinker: Warning: Can't find file for asset '/Game/Maps/level2_BuiltData' while loading NULL.
+[2019.02.05-13.26.53:296][186]LogLinker: Warning: Can't find file '/Game/Maps/level2_BuiltData'
+[2019.02.05-13.26.53:296][186]LogLinker: Warning: Can't find file for asset '/Game/Maps/level2_BuiltData' while loading NULL.
+[2019.02.05-13.26.53:312][186]LogLinker: Warning: Can't find file '/Game/Maps/level2_BuiltData'
+[2019.02.05-13.26.53:312][186]LoadErrors: Failed to load /Game/Maps/level2_BuiltData.level2_BuiltData Referenced by PersistentLevel
+[2019.02.05-13.26.53:313][186]LogLinker: Warning: Can't find file for asset '/Game/Maps/level2_BuiltData' while loading NULL.
+[2019.02.05-13.26.53:426][186]LogAIModule: Creating AISystem for world level2
+[2019.02.05-13.26.53:427][186]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.05-13.26.53:454][186]LogWorld: Bringing World /Game/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2019.02.05-14.26.53
+[2019.02.05-13.26.53:456][186]LogWorld: Bringing up level for play took: 0.028059
+[2019.02.05-13.26.53:463][186]LogLoad: Took 0.470193 seconds to LoadMap(/Game/Maps/level2)
+[2019.02.05-13.26.57:598][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-13.27.05:858][686]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.27.05:858][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-13.27.05:916][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-13.27.05:916][686]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.27.05:981][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-13.27.05:997][686]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-13.27.06:048][687]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.02.05-13.27.07:222][734]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-13.27.07:254][734]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-13.27.07:810][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-13.27.42:224][906]BlueprintLog: New page: Compile level3Trigger
+[2019.02.05-13.27.42:663][906]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/level3Trigger79BD1CED4C7275D159B16A9196054C23.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/nextLevelTrigger/level3Trigger.uasset'
+[2019.02.05-13.27.43:228][926]LogSavePackage: Moving '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Saved/level3Trigger661E70584377705344BF689DDCCF5B35.tmp' to '../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/nextLevelTrigger/level3Trigger.uasset'
+[2019.02.05-13.27.49:031][135]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.02.05-13.27.57:853][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-13.28.02:825][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-13.28.02:910][681]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-13.28.02:955][681]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.28.02:955][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-13.28.02:956][681]PIE: New page: PIE session: level1 (Feb 5, 2019, 3:28:02 PM)
+[2019.02.05-13.28.02:956][681]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_level1
+[2019.02.05-13.28.02:967][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010335s)
+[2019.02.05-13.28.02:968][681]LogAIModule: Creating AISystem for world level1
+[2019.02.05-13.28.02:968][681]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2019.02.05-13.28.02:968][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/level1.level1 to /Game/Maps/UEDPIE_0_level1.level1 (0.011628s)
+[2019.02.05-13.28.03:031][681]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.05-13.28.03:151][681]LogInit: FAudioDevice initialized.
+[2019.02.05-13.28.03:184][681]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.05-13.28.03:188][681]LogWorld: Bringing World /Game/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2019.02.05-14.28.03
+[2019.02.05-13.28.03:189][681]LogWorld: Bringing up level for play took: 0.003812
+[2019.02.05-13.28.03:207][681]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_level1 -0.434
+[2019.02.05-13.28.03:207][681]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.28.06:914][876]LogNet: Browse: /Game/Maps/level3
+[2019.02.05-13.28.06:931][876]LogLoad: LoadMap: /Game/Maps/level3
+[2019.02.05-13.28.07:026][876]LogLinker: Warning: Can't find file '/Game/Maps/level3_BuiltData'
+[2019.02.05-13.28.07:027][876]LogLinker: Warning: Can't find file for asset '/Game/Maps/level3_BuiltData' while loading ../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Maps/level3.umap.
+[2019.02.05-13.28.07:027][876]LoadErrors: Error: /Game/Maps/level3 : Can't find file for asset. /Game/Maps/level3_BuiltData
+[2019.02.05-13.28.07:058][876]LogLinker: Warning: Can't find file '/Game/Maps/level3_BuiltData'
+[2019.02.05-13.28.07:059][876]LogLinker: Warning: Can't find file for asset '/Game/Maps/level3_BuiltData' while loading ../../../../../../Users/Dani/Desktop/new_maze_runner/mazeRunner/maze_runner/Content/Maps/level3.umap.
+[2019.02.05-13.28.07:063][876]LogLinker: Warning: Can't find file '/Game/Maps/level3_BuiltData'
+[2019.02.05-13.28.07:063][876]LogLinker: Warning: Can't find file for asset '/Game/Maps/level3_BuiltData' while loading NULL.
+[2019.02.05-13.28.07:063][876]LogLinker: Warning: Can't find file '/Game/Maps/level3_BuiltData'
+[2019.02.05-13.28.07:063][876]LogLinker: Warning: Can't find file for asset '/Game/Maps/level3_BuiltData' while loading NULL.
+[2019.02.05-13.28.07:084][876]LogLinker: Warning: Can't find file '/Game/Maps/level3_BuiltData'
+[2019.02.05-13.28.07:084][876]LoadErrors: Failed to load /Game/Maps/level3_BuiltData.level3_BuiltData Referenced by PersistentLevel
+[2019.02.05-13.28.07:085][876]LogLinker: Warning: Can't find file for asset '/Game/Maps/level3_BuiltData' while loading NULL.
+[2019.02.05-13.28.07:115][876]LogAIModule: Creating AISystem for world level3
+[2019.02.05-13.28.07:115][876]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.05-13.28.07:143][876]LogWorld: Bringing World /Game/Maps/UEDPIE_0_level3.level3 up for play (max tick rate 60) at 2019.02.05-14.28.07
+[2019.02.05-13.28.07:145][876]LogWorld: Bringing up level for play took: 0.027945
+[2019.02.05-13.28.07:149][876]LogLoad: Took 0.217346 seconds to LoadMap(/Game/Maps/level3)
+[2019.02.05-13.28.09:667][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-13.28.24:071][416]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.28.24:072][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-13.28.24:124][416]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-13.28.24:124][416]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/Maps/level1.level1_C' with ClassGeneratedBy '/Game/Maps/level1.level1:PersistentLevel.level1'
+[2019.02.05-13.28.24:182][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-13.28.24:205][417]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.02.05-13.28.29:655][566]LogEditorTransaction: Undo Move Actors
+[2019.02.05-13.28.29:687][566]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.02.05-13.28.29:699][566]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.013 s
+[2019.02.05-13.28.29:699][566]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.05-13.28.29:699][566]LogOutputDevice: Error: 
+[2019.02.05-13.28.29:699][566]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2105]
+[2019.02.05-13.28.29:699][566]LogOutputDevice: Error: 
+[2019.02.05-13.28.29:699][566]LogOutputDevice: Error: Stack: 
+[2019.02.05-13.28.29:699][566]LogOutputDevice: Error: [Callstack] 0x00007ff8fc4185e8 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.05-13.28.29:699][566]LogOutputDevice: Error: [Callstack] 0x00007ff8fa7efe32 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.05-13.28.29:699][566]LogOutputDevice: Error: [Callstack] 0x00007ff8fa81acf6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.05-13.28.29:699][566]LogOutputDevice: Error: [Callstack] 0x00007ff8fa80140c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.05-13.28.29:699][566]LogOutputDevice: Error: [Callstack] 0x00007ff8fa86b427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.05-13.28.29:699][566]LogOutputDevice: Error: [Callstack] 0x00007ff8fa8af72f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.05-13.28.29:699][566]LogOutputDevice: Error: [Callstack] 0x00007ff8fa84726f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.05-13.28.29:699][566]LogOutputDevice: Error: [Callstack] 0x00007ff8f90d1168 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.05-13.28.29:699][566]LogOutputDevice: Error: [Callstack] 0x00007ff8ffb2206f UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.05-13.28.29:699][566]LogOutputDevice: Error: [Callstack] 0x00007ff8ffb64c8e UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.05-13.28.29:699][566]LogOutputDevice: Error: [Callstack] 0x00007ff8fb0c6d1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.05-13.28.29:699][566]LogOutputDevice: Error: [Callstack] 0x00007ff8fb0b4cb8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.05-13.28.29:699][566]LogOutputDevice: Error: [Callstack] 0x00007ff8ffae694c UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.05-13.28.29:700][566]LogOutputDevice: Error: [Callstack] 0x00007ff8ffb6697c UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.05-13.28.29:700][566]LogOutputDevice: Error: [Callstack] 0x00007ff8ffb59a36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.05-13.28.29:700][566]LogOutputDevice: Error: [Callstack] 0x00007ff904c1daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.05-13.28.29:700][566]LogOutputDevice: Error: [Callstack] 0x00007ff904c10de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.05-13.28.29:700][566]LogOutputDevice: Error: [Callstack] 0x00007ff904c201eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.05-13.28.29:700][566]LogOutputDevice: Error: [Callstack] 0x00007ff904c0ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.05-13.28.29:700][566]LogOutputDevice: Error: [Callstack] 0x00007ff953ccca66 USER32.dll!UnknownFunction []
+[2019.02.05-13.28.29:700][566]LogOutputDevice: Error: [Callstack] 0x00007ff953ccc582 USER32.dll!UnknownFunction []
+[2019.02.05-13.28.29:700][566]LogOutputDevice: Error: [Callstack] 0x00007ff904c21746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.05-13.28.29:700][566]LogOutputDevice: Error: [Callstack] 0x00007ff6d7c65546 UE4Editor.exe!UnknownFunction []
+[2019.02.05-13.28.29:700][566]LogOutputDevice: Error: [Callstack] 0x00007ff6d7c7596c UE4Editor.exe!UnknownFunction []
+[2019.02.05-13.28.29:700][566]LogOutputDevice: Error: [Callstack] 0x00007ff6d7c759ea UE4Editor.exe!UnknownFunction []
+[2019.02.05-13.28.29:700][566]LogOutputDevice: Error: [Callstack] 0x00007ff6d7c848da UE4Editor.exe!UnknownFunction []
+[2019.02.05-13.28.29:700][566]LogOutputDevice: Error: [Callstack] 0x00007ff6d7c8659a UE4Editor.exe!UnknownFunction []
+[2019.02.05-13.28.29:700][566]LogOutputDevice: Error: [Callstack] 0x00007ff9536281f4 KERNEL32.DLL!UnknownFunction []
+[2019.02.05-13.28.29:700][566]LogOutputDevice: Error: [Callstack] 0x00007ff95617a251 ntdll.dll!UnknownFunction []
+[2019.02.05-13.28.29:700][566]LogOutputDevice: Error: 
+[2019.02.05-13.28.29:711][566]LogStats:                SubmitErrorReport -  0.000 s
